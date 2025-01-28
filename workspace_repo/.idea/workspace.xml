@@ -69,14 +69,16 @@
       <window_info anchor="bottom" id="TODO" />
       <window_info anchor="bottom" id="File Transfer" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="0" visible="true" weight="0.35694444" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="0" visible="true" weight="0.3300926" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.114351854" />
-      <window_info anchor="bottom" id="Run" order="4" weight="0.35694444" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.3300926" />
       <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Find" order="4" weight="0.3300926" />
       <window_info anchor="right" id="sbt" />
       <window_info anchor="right" id="Endpoints" />
+      <window_info anchor="right" id="Hierarchy" />
       <window_info anchor="right" id="Coverage" side_tool="true" />
       <window_info anchor="right" id="Beans" />
       <window_info anchor="right" id="bsp" />
@@ -118,7 +120,7 @@
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
       <updated>1738075246574</updated>
-      <workItem from="1738075246832" duration="339000" />
+      <workItem from="1738075246832" duration="687000" />
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
