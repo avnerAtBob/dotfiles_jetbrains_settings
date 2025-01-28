@@ -1,13 +1,76 @@
 <application>
   <component name="ActionsLocalSummary">
+    <e n="DatabaseView.AddActionGroupPopup">
+      <i c="2" l="1738063723471" />
+    </e>
+    <e n="DatabaseView.PropertiesAction">
+      <i c="1" l="1738063763701" />
+    </e>
+    <e n="Debug">
+      <i c="1" l="1738057327667" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="4" l="1738056476244" />
+    </e>
+    <e n="EditorLineStart">
+      <i c="1" l="1738056470411" />
+    </e>
     <e n="EditorPaste">
       <i c="1" l="1738055924545" />
+    </e>
+    <e n="FindInPath">
+      <i c="1" l="1738057656260" />
+    </e>
+    <e n="FindUsages">
+      <i c="1" l="1738057672665" />
+    </e>
+    <e n="GitCheckoutAction">
+      <i c="1" l="1738056441780" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="1" l="1738057669385" />
+    </e>
+    <e n="OpenFile">
+      <i c="1" l="1738057169911" />
+    </e>
+    <e n="Resume">
+      <i c="1" l="1738065865584" />
+    </e>
+    <e n="ServiceView.AddService">
+      <i c="2" l="1738056521530" />
+    </e>
+    <e n="StepInto">
+      <i c="3" l="1738065802840" />
+    </e>
+    <e n="StepOver">
+      <i c="17" l="1738065834441" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="1" l="1738065751589" />
+    </e>
+    <e n="com.intellij.database.dataSource.LocalDataSourceManager$3">
+      <i c="1" l="1738063727606" />
+    </e>
+    <e n="com.intellij.execution.actions.RunSpecifiedConfigExecutorAction">
+      <i c="2" l="1738057192073" />
+    </e>
+    <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
+      <i c="1" l="1738057665938" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="1" l="1738066749409" />
+    </e>
+    <e n="org.jetbrains.plugins.scala.lang.formatting.scalafmt.ScalaFmtSuggesterService$$anon$1">
+      <i c="1" l="1738057312184" />
     </e>
     <e n="performancePlugin.ShowMemoryDialogAction">
       <i c="2" l="1738056122384" />
     </e>
     <e n="tasks.goto">
-      <i c="1" l="1738056422449" />
+      <i c="2" l="1738056448527" />
+    </e>
+    <e n="tasks.switch">
+      <i c="1" l="1738056447231" />
     </e>
   </component>
 </application>

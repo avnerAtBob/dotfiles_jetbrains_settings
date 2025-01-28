@@ -5,16 +5,32 @@
         <entry key="/workspace/payroll">
           <value>
             <RecentProjectMetaInfo frameTitle="bob-payroll" opened="true" projectWorkspaceId="2s4TJ8dMfiSBAaDXPP97Y8duSEu">
-              <option name="activationTimestamp" value="1738056424918" />
+              <option name="activationTimestamp" value="1738066746451" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="IU-243.23654.117" />
               <option name="buildTimestamp" value="1737003600000" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="2" />
               </option>
-              <frame x="0" y="0" width="1440" height="2560" />
+              <frame x="0" y="37" width="1728" height="1080" />
               <option name="productionCode" value="IU" />
               <option name="projectOpenTimestamp" value="1738056106417" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/workspace/hibob">
+          <value>
+            <RecentProjectMetaInfo frameTitle="hibob" opened="true" projectWorkspaceId="2sFhMQKSWqsCs0j8q6KnvSWZJpW">
+              <option name="activationTimestamp" value="1738065720112" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-243.23654.117" />
+              <option name="buildTimestamp" value="1737003600000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="0" y="37" width="1728" height="1080" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1738057181419" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
