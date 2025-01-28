@@ -6,6 +6,9 @@
     <e n="Back">
       <i c="2" l="1738075405958" />
     </e>
+    <e n="CallHierarchy">
+      <i c="1" l="1738075688575" />
+    </e>
     <e n="DatabaseView.AddActionGroupPopup">
       <i c="2" l="1738063723471" />
     </e>
@@ -24,11 +27,14 @@
     <e n="EditorPaste">
       <i c="1" l="1738055924545" />
     </e>
+    <e n="EditorSelectWord">
+      <i c="1" l="1738075686218" />
+    </e>
     <e n="FindInPath">
       <i c="1" l="1738057656260" />
     </e>
     <e n="FindUsages">
-      <i c="1" l="1738057672665" />
+      <i c="2" l="1738075690844" />
     </e>
     <e n="GitCheckoutAction">
       <i c="1" l="1738056441780" />
@@ -40,7 +46,7 @@
       <i c="1" l="1738075259798" />
     </e>
     <e n="GotoDeclaration">
-      <i c="2" l="1738075397541" />
+      <i c="4" l="1738075656347" />
     </e>
     <e n="OpenFile">
       <i c="1" l="1738057169911" />
@@ -71,6 +77,9 @@
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
       <i c="1" l="1738057665938" />
+    </e>
+    <e n="com.intellij.ide.hierarchy.HierarchyBrowserBaseEx$ChangeScopeAction$MenuAction">
+      <i c="1" l="1738075719201" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
       <i c="1" l="1738066749409" />
