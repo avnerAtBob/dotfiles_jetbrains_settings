@@ -15,87 +15,22 @@
       <ProjectState />
     </projectState>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="avner/bug/benadmin_export_error" />
-      </map>
-    </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="HierarchyBrowserManager">
-    <option name="SCOPE" value="Production" />
-  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: 2
-}</component>
   <component name="ProjectId" id="2s4TJ8dMfiSBAaDXPP97Y8duSEu" />
-  <component name="ProjectLevelVcsManager">
-    <OptionsSetting value="false" id="Update" />
-  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Gradle.Build payroll.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "start.from.branch": "master",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RdControllerToolWindowsLayoutState" isNewUi="true">
-    <layout>
-      <window_info id="Bookmarks" side_tool="true" />
-      <window_info id="Merge Requests" />
-      <window_info id="Commit_Guest" show_stripe_button="false" />
-      <window_info id="Pull Requests" />
-      <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
-      <window_info id="Commit" order="1" weight="0.25" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="TypeScript" />
-      <window_info anchor="bottom" id="Profiler" />
-      <window_info anchor="bottom" id="internal-profiler" />
-      <window_info anchor="bottom" id="TODO" />
-      <window_info anchor="bottom" id="File Transfer" />
-      <window_info anchor="bottom" id="sbt-shell-toolwindow" />
-      <window_info anchor="bottom" id="Version Control" order="0" weight="0.3305" />
-      <window_info anchor="bottom" id="Problems" order="1" />
-      <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="3" weight="0.33046874" />
-      <window_info anchor="bottom" id="Run" order="4" weight="0.33046874" />
-      <window_info anchor="bottom" id="Services" order="5" />
-      <window_info anchor="bottom" id="Build" order="6" visible="true" weight="0.32994792" />
-      <window_info anchor="bottom" id="Find" order="6" weight="0.3300926" />
-      <window_info anchor="right" id="sbt" />
-      <window_info anchor="right" id="Endpoints" />
-      <window_info anchor="right" id="Hierarchy" />
-      <window_info anchor="right" id="Coverage" side_tool="true" />
-      <window_info anchor="right" id="Beans" />
-      <window_info anchor="right" id="bsp" />
-      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
-      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
-      <window_info anchor="right" id="Database" order="2" weight="0.25" />
-      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
-    </layout>
-  </component>
-  <component name="RunManager" selected="Kotlin.PayrollApp" />
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -107,48 +42,16 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <branch name="master" repository="$PROJECT_DIR$" />
       <changelist id="5198549c-5009-4f98-842e-ac40bcd9d1fa" name="Changes" comment="" />
       <created>1737713772526</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1738132963427</updated>
+      <updated>1737713772526</updated>
       <workItem from="1737713776225" duration="86000" />
-      <workItem from="1738056108068" duration="318000" />
-      <workItem from="1738075139623" duration="106000" />
-      <workItem from="1738132963517" duration="42000" />
     </task>
-    <task id="LOCAL-00001" summary="BenAdmin export permission error">
-      <branch name="master" repository="$PROJECT_DIR$" original="true" />
-      <branch name="avner/bug/benadmin_export_error" repository="$PROJECT_DIR$" />
-      <changelist id="" name="BenAdmin export permission error" comment="" />
-      <created>1738075210646</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1738132963426</updated>
-      <workItem from="1738075246832" duration="687000" />
-      <workItem from="1738132696371" duration="267000" />
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
   </component>
 </project>
