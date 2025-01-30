@@ -1,5 +1,6 @@
 <application>
-  <component name="BuiltInServerOptions" builtInServerPort="62082" />
+  <component name="BuiltInServerOptions" builtInServerPort="61331" />
+  <component name="FileEditorProviderManager">{}</component>
   <component name="LangManager">
     <option name="languageName" value="JAVA" />
   </component>
@@ -25,6 +26,7 @@
     "fileTypeChangedCounter": "1",
     "fontSizeToResetConsole": "12.0",
     "fontSizeToResetEditor": "12.0",
+    "got.it.tooltip.new.terminal.promotion.243": "1",
     "input.method.disabler.muted": "true",
     "installed.kotlin.plugin.version": "243.23654.117-IJ",
     "kotlin.updates.whats.new.shown.for": "2.0.21",
