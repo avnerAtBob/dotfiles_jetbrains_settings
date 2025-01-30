@@ -1,5 +1,8 @@
 <application>
   <component name="ActionsLocalSummary">
+    <e n="EditorBackSpace">
+      <i c="1" l="1738251405100" />
+    </e>
     <e n="EditorCopy">
       <i c="3" l="1738231705018" />
     </e>
@@ -8,6 +11,18 @@
     </e>
     <e n="EditorNextWordWithSelection">
       <i c="7" l="1738231643058" />
+    </e>
+    <e n="FindInPath">
+      <i c="1" l="1738251399744" />
+    </e>
+    <e n="Vcs.UpdateProject">
+      <i c="1" l="1738251412831" />
+    </e>
+    <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
+      <i c="1" l="1738251408402" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
+      <i c="4" l="1738251407998" />
     </e>
   </component>
 </application>
