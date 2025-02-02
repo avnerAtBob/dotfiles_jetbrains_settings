@@ -65,7 +65,7 @@
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.33046874" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.17213541" />
       <window_info anchor="bottom" id="Services" order="4" />
       <window_info anchor="right" id="sbt" />
       <window_info anchor="right" id="Endpoints" />
@@ -98,6 +98,7 @@
       <workItem from="1737713776225" duration="86000" />
       <workItem from="1738144939684" duration="1400000" />
       <workItem from="1738219428159" duration="7392000" />
+      <workItem from="1738486385958" duration="381000" />
     </task>
     <servers />
   </component>
