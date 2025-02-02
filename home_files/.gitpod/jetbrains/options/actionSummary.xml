@@ -1,10 +1,16 @@
 <application>
   <component name="ActionsLocalSummary">
+    <e n="Back">
+      <i c="5" l="1738252165306" />
+    </e>
+    <e n="CopyReference">
+      <i c="1" l="1738255145242" />
+    </e>
     <e n="EditorBackSpace">
       <i c="1" l="1738251405100" />
     </e>
     <e n="EditorCopy">
-      <i c="3" l="1738231705018" />
+      <i c="5" l="1738255166256" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="1" l="1738231643693" />
@@ -12,8 +18,14 @@
     <e n="EditorNextWordWithSelection">
       <i c="7" l="1738231643058" />
     </e>
+    <e n="EditorSelectWord">
+      <i c="5" l="1738255165338" />
+    </e>
     <e n="FindInPath">
       <i c="1" l="1738251399744" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="8" l="1738255163724" />
     </e>
     <e n="Vcs.UpdateProject">
       <i c="1" l="1738251412831" />
