@@ -10,31 +10,79 @@
       <i c="1" l="1738255145242" />
     </e>
     <e n="EditorBackSpace">
-      <i c="1" l="1738251405100" />
+      <i c="14" l="1738597974649" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="1" l="1738597970247" />
     </e>
     <e n="EditorCopy">
       <i c="5" l="1738255166256" />
     </e>
+    <e n="EditorDelete">
+      <i c="3" l="1738597797808" />
+    </e>
+    <e n="EditorDeleteLine">
+      <i c="2" l="1738597756651" />
+    </e>
+    <e n="EditorDownWithSelection">
+      <i c="65" l="1738597797411" />
+    </e>
     <e n="EditorLeftWithSelection">
       <i c="1" l="1738231643693" />
+    </e>
+    <e n="EditorLineStart">
+      <i c="7" l="1738597953671" />
     </e>
     <e n="EditorNextWordWithSelection">
       <i c="7" l="1738231643058" />
     </e>
+    <e n="EditorPreviousWordWithSelection">
+      <i c="2" l="1738597946538" />
+    </e>
     <e n="EditorSelectWord">
       <i c="8" l="1738495062790" />
     </e>
+    <e n="EditorUp">
+      <i c="1" l="1738597797019" />
+    </e>
+    <e n="EditorUpWithSelection">
+      <i c="51" l="1738597790218" />
+    </e>
     <e n="FindInPath">
-      <i c="1" l="1738251399744" />
+      <i c="2" l="1738597924573" />
+    </e>
+    <e n="Git.Commit.And.Push.Executor">
+      <i c="1" l="1738597983728" />
+    </e>
+    <e n="GitMergeRefAction">
+      <i c="1" l="1738597826305" />
+    </e>
+    <e n="GitNewBranchAction">
+      <i c="1" l="1738597706121" />
+    </e>
+    <e n="GitUpdateSelectedBranchAction">
+      <i c="1" l="1738597817309" />
     </e>
     <e n="GotoDeclaration">
       <i c="8" l="1738255163724" />
     </e>
+    <e n="GotoTest">
+      <i c="2" l="1738597862692" />
+    </e>
     <e n="Vcs.UpdateProject">
-      <i c="1" l="1738251412831" />
+      <i c="2" l="1738597689887" />
+    </e>
+    <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
+      <i c="1" l="1738597911888" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
       <i c="1" l="1738251408402" />
+    </e>
+    <e n="com.intellij.find.impl.FindPopupPanel$MySwitchStateToggleAction">
+      <i c="1" l="1738597957591" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="1" l="1738597960821" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
       <i c="4" l="1738251407998" />
