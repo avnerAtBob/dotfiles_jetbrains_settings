@@ -1,5 +1,8 @@
 <application>
   <component name="ActionsLocalSummary">
+    <e n="Annotate">
+      <i c="1" l="1738495042347" />
+    </e>
     <e n="Back">
       <i c="5" l="1738252165306" />
     </e>
@@ -19,7 +22,7 @@
       <i c="7" l="1738231643058" />
     </e>
     <e n="EditorSelectWord">
-      <i c="5" l="1738255165338" />
+      <i c="8" l="1738495062790" />
     </e>
     <e n="FindInPath">
       <i c="1" l="1738251399744" />
