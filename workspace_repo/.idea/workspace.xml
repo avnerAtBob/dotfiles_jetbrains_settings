@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5198549c-5009-4f98-842e-ac40bcd9d1fa" name="Changes" comment="adjust BobEventsListenerTest to removal of operationType property from event">
-      <change beforePath="$PROJECT_DIR$/src/test/kotlin/com/hibob/common/queue/listener/BobEventsListenerTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/kotlin/com/hibob/common/queue/listener/BobEventsListenerTest.kt" afterDir="false" />
-    </list>
+    <list default="true" id="5198549c-5009-4f98-842e-ac40bcd9d1fa" name="Changes" comment="adjust BobEventsListenerTest to removal of operationType property from event" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,8 +59,8 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
-      <window_info active="true" id="Commit" order="1" visible="true" weight="0.33020833" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33020833" />
+      <window_info id="Commit" order="1" weight="0.33020833" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="TypeScript" />
@@ -76,8 +74,8 @@
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="3" weight="0.06738281" />
-      <window_info active="true" anchor="bottom" id="Run" order="4" visible="true" weight="0.06738281" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.3298828" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.06738281" />
       <window_info anchor="bottom" id="Services" order="4" />
       <window_info anchor="right" id="sbt" />
       <window_info anchor="right" id="Endpoints" />
@@ -142,7 +140,7 @@
       <workItem from="1738144939684" duration="1400000" />
       <workItem from="1738219428159" duration="7392000" />
       <workItem from="1738486385958" duration="381000" />
-      <workItem from="1738597673807" duration="313000" />
+      <workItem from="1738597673807" duration="937000" />
     </task>
     <task id="LOCAL-00001" summary="adjust BobEventsListenerTest to removal of operationType property from event">
       <option name="closed" value="true" />

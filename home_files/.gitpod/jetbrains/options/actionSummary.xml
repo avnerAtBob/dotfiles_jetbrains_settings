@@ -37,7 +37,7 @@
       <i c="7" l="1738231643058" />
     </e>
     <e n="EditorPreviousWordWithSelection">
-      <i c="2" l="1738597946538" />
+      <i c="5" l="1738598594133" />
     </e>
     <e n="EditorSelectWord">
       <i c="8" l="1738495062790" />
@@ -49,7 +49,7 @@
       <i c="51" l="1738597790218" />
     </e>
     <e n="FindInPath">
-      <i c="2" l="1738597924573" />
+      <i c="3" l="1738598595690" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
       <i c="1" l="1738597983728" />
@@ -64,7 +64,7 @@
       <i c="1" l="1738597817309" />
     </e>
     <e n="GotoDeclaration">
-      <i c="8" l="1738255163724" />
+      <i c="9" l="1738598581602" />
     </e>
     <e n="GotoTest">
       <i c="2" l="1738597862692" />
@@ -79,10 +79,10 @@
       <i c="1" l="1738251408402" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MySwitchStateToggleAction">
-      <i c="1" l="1738597957591" />
+      <i c="2" l="1738598604709" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="1" l="1738597960821" />
+      <i c="2" l="1738598606565" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
       <i c="4" l="1738251407998" />
