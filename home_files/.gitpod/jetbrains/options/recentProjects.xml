@@ -4,17 +4,12 @@
       <map>
         <entry key="/workspace/payroll">
           <value>
-            <RecentProjectMetaInfo frameTitle="bob-payroll" opened="true" projectWorkspaceId="2s4TJ8dMfiSBAaDXPP97Y8duSEu">
-              <option name="activationTimestamp" value="1738598610641" />
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2sZnz9dg7SpXXYscjGUYd1JgZi4">
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="IU-243.23654.117" />
               <option name="buildTimestamp" value="1737003600000" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="4" />
-              </option>
-              <frame x="0" y="0" width="1060" height="1000" />
               <option name="productionCode" value="IU" />
-              <option name="projectOpenTimestamp" value="1738597672158" />
+              <option name="projectOpenTimestamp" value="1738672224267" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
