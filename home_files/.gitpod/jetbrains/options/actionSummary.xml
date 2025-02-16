@@ -15,11 +15,14 @@
     <e n="EditorCopy">
       <i c="1" l="1739436297971" />
     </e>
+    <e n="EditorPaste">
+      <i c="1" l="1739690461191" />
+    </e>
     <e n="EditorSelectWord">
       <i c="1" l="1739476086492" />
     </e>
     <e n="FindInPath">
-      <i c="2" l="1739436211134" />
+      <i c="3" l="1739690457800" />
     </e>
     <e n="GitNewBranchAction">
       <i c="1" l="1739432893166" />
@@ -44,6 +47,9 @@
     </e>
     <e n="com.intellij.diff.tools.util.base.TextDiffViewerUtil$ComboBoxSettingAction$MyAction">
       <i c="1" l="1739441269665" />
+    </e>
+    <e n="com.intellij.execution.actions.RunSpecifiedConfigExecutorAction">
+      <i c="1" l="1739689811471" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
       <i c="1" l="1739436221296" />
