@@ -1,91 +1,55 @@
 <application>
   <component name="ActionsLocalSummary">
     <e n="Annotate">
-      <i c="1" l="1738495042347" />
+      <i c="2" l="1739441309425" />
     </e>
-    <e n="Back">
-      <i c="5" l="1738252165306" />
+    <e n="Debug">
+      <i c="2" l="1739433206195" />
     </e>
-    <e n="CopyReference">
-      <i c="1" l="1738255145242" />
+    <e n="Docker.ImportContexts">
+      <i c="1" l="1739433373014" />
     </e>
     <e n="EditorBackSpace">
-      <i c="14" l="1738597974649" />
-    </e>
-    <e n="EditorChooseLookupItemReplace">
-      <i c="1" l="1738597970247" />
+      <i c="5" l="1739436215228" />
     </e>
     <e n="EditorCopy">
-      <i c="5" l="1738255166256" />
-    </e>
-    <e n="EditorDelete">
-      <i c="3" l="1738597797808" />
-    </e>
-    <e n="EditorDeleteLine">
-      <i c="2" l="1738597756651" />
-    </e>
-    <e n="EditorDownWithSelection">
-      <i c="65" l="1738597797411" />
-    </e>
-    <e n="EditorLeftWithSelection">
-      <i c="1" l="1738231643693" />
-    </e>
-    <e n="EditorLineStart">
-      <i c="7" l="1738597953671" />
-    </e>
-    <e n="EditorNextWordWithSelection">
-      <i c="7" l="1738231643058" />
-    </e>
-    <e n="EditorPreviousWordWithSelection">
-      <i c="5" l="1738598594133" />
+      <i c="1" l="1739436297971" />
     </e>
     <e n="EditorSelectWord">
-      <i c="8" l="1738495062790" />
-    </e>
-    <e n="EditorUp">
-      <i c="1" l="1738597797019" />
-    </e>
-    <e n="EditorUpWithSelection">
-      <i c="51" l="1738597790218" />
+      <i c="1" l="1739476086492" />
     </e>
     <e n="FindInPath">
-      <i c="3" l="1738598595690" />
-    </e>
-    <e n="Git.Commit.And.Push.Executor">
-      <i c="1" l="1738597983728" />
-    </e>
-    <e n="GitMergeRefAction">
-      <i c="1" l="1738597826305" />
+      <i c="2" l="1739436211134" />
     </e>
     <e n="GitNewBranchAction">
-      <i c="1" l="1738597706121" />
-    </e>
-    <e n="GitUpdateSelectedBranchAction">
-      <i c="1" l="1738597817309" />
+      <i c="1" l="1739432893166" />
     </e>
     <e n="GotoDeclaration">
-      <i c="9" l="1738598581602" />
+      <i c="2" l="1739440277949" />
     </e>
-    <e n="GotoTest">
-      <i c="2" l="1738597862692" />
+    <e n="OpenFile">
+      <i c="2" l="1739436161950" />
     </e>
-    <e n="Vcs.UpdateProject">
-      <i c="2" l="1738597689887" />
+    <e n="Rerun">
+      <i c="1" l="1739433489954" />
     </e>
-    <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
-      <i c="1" l="1738597911888" />
+    <e n="Run">
+      <i c="2" l="1739433475962" />
+    </e>
+    <e n="ServiceView.AddService">
+      <i c="1" l="1739433367053" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="2" l="1739441307915" />
+    </e>
+    <e n="com.intellij.diff.tools.util.base.TextDiffViewerUtil$ComboBoxSettingAction$MyAction">
+      <i c="1" l="1739441269665" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
-      <i c="1" l="1738251408402" />
+      <i c="1" l="1739436221296" />
     </e>
-    <e n="com.intellij.find.impl.FindPopupPanel$MySwitchStateToggleAction">
-      <i c="2" l="1738598604709" />
-    </e>
-    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="2" l="1738598606565" />
-    </e>
-    <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
-      <i c="4" l="1738251407998" />
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="1" l="1739441307028" />
     </e>
   </component>
 </application>

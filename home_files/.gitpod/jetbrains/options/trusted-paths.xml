@@ -2,6 +2,8 @@
   <component name="Trusted.Paths">
     <option name="TRUSTED_PROJECT_PATHS">
       <map>
+        <entry key="/workspace/hibob" value="true" />
+        <entry key="/workspace/libraries" value="true" />
         <entry key="/workspace/payroll" value="true" />
       </map>
     </option>

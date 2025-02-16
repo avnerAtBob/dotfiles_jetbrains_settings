@@ -1,0 +1,13 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="docker-default" type="docker">
+      <configuration>
+        <option name="apiUrl" value="unix:///var/run/docker.sock" />
+        <option name="autoDetectExePaths" value="true" />
+        <option name="certificatesPath" />
+        <option name="connected" value="true" />
+        <option name="customConfiguratorId" value="DockerTcpConnectionConfigurator" />
+      </configuration>
+    </remote-server>
+  </component>
+</application>
