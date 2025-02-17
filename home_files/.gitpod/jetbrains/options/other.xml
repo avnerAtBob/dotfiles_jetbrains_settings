@@ -10,6 +10,7 @@
   </component>
   <component name="PropertyService"><![CDATA[{
   "keyToString": {
+    "Kotlin-Was-Debugged": "5",
     "LAST_CALCULATED_COLOR_INDEX_KEY": "8",
     "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
     "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
@@ -27,7 +28,7 @@
     "fontSizeToResetEditor": "13.0",
     "input.method.disabler.muted": "true",
     "installed.kotlin.plugin.version": "243.23654.117-IJ",
-    "kotlin.lastUpdateCheck": "1739690670165",
+    "kotlin.lastUpdateCheck": "1739779026537",
     "kotlin.updates.whats.new.shown.for": "2.0.21",
     "llm.installer.activate.toolwindow.delayed": "true",
     "llm.installer.last.toolwindow.state": "LLM_INSTALLER",

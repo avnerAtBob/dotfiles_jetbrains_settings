@@ -21,38 +21,38 @@
         <entry key="/workspace/payroll">
           <value>
             <RecentProjectMetaInfo frameTitle="bob-payroll" projectWorkspaceId="2sZnz9dg7SpXXYscjGUYd1JgZi4">
-              <option name="activationTimestamp" value="1739714055047" />
+              <option name="activationTimestamp" value="1739782257558" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="IU-243.23654.117" />
               <option name="buildTimestamp" value="1737003600000" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="6" />
               </option>
-              <frame x="0" y="0" width="1080" height="1920" />
+              <frame x="0" y="0" width="1440" height="2560" />
               <option name="productionCode" value="IU" />
-              <option name="projectOpenTimestamp" value="1739689536668" />
+              <option name="projectOpenTimestamp" value="1739778038042" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
         <entry key="/workspace/hibob">
           <value>
             <RecentProjectMetaInfo frameTitle="hibob" projectWorkspaceId="2syfjQtBMlG1NZksyd6dI08TCuB">
-              <option name="activationTimestamp" value="1739714050346" />
+              <option name="activationTimestamp" value="1739782261492" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="IU-243.23654.117" />
               <option name="buildTimestamp" value="1737003600000" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="7" />
               </option>
-              <frame x="0" y="0" width="1080" height="1920" />
+              <frame x="0" y="0" width="1440" height="2560" />
               <option name="productionCode" value="IU" />
-              <option name="projectOpenTimestamp" value="1739690540931" />
+              <option name="projectOpenTimestamp" value="1739778075869" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="/workspace/payroll" />
+    <option name="lastOpenedProject" value="/workspace/hibob" />
     <option name="lastProjectLocation" value="/workspace" />
   </component>
 </application>

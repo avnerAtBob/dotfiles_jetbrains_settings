@@ -9,11 +9,14 @@
     <e n="CallHierarchy">
       <i c="1" l="1739691562464" />
     </e>
+    <e n="CompileProject">
+      <i c="1" l="1739779392857" />
+    </e>
     <e n="DatabaseView.AddActionGroupPopup">
       <i c="1" l="1739710966464" />
     </e>
     <e n="Debug">
-      <i c="2" l="1739433206195" />
+      <i c="4" l="1739779664814" />
     </e>
     <e n="Debugger.ShowLibraryFrames">
       <i c="2" l="1739705071944" />
@@ -28,34 +31,46 @@
       <i c="3" l="1739705014892" />
     </e>
     <e n="EditorCopy">
-      <i c="2" l="1739714005400" />
+      <i c="6" l="1739778867096" />
+    </e>
+    <e n="EditorDelete">
+      <i c="1" l="1739779024495" />
     </e>
     <e n="EditorDown">
-      <i c="1" l="1739714044976" />
+      <i c="21" l="1739779496216" />
+    </e>
+    <e n="EditorDownWithSelection">
+      <i c="159" l="1739779023630" />
     </e>
     <e n="EditorEnter">
-      <i c="2" l="1739714029509" />
+      <i c="4" l="1739779493494" />
+    </e>
+    <e n="EditorLeft">
+      <i c="1" l="1739779092037" />
     </e>
     <e n="EditorLineEnd">
       <i c="1" l="1739714029143" />
     </e>
     <e n="EditorLineStart">
-      <i c="1" l="1739714045275" />
+      <i c="5" l="1739779023154" />
     </e>
     <e n="EditorNextWordWithSelection">
       <i c="7" l="1739705184586" />
     </e>
     <e n="EditorPaste">
-      <i c="6" l="1739714027326" />
+      <i c="8" l="1739779491117" />
     </e>
     <e n="EditorPreviousWordWithSelection">
       <i c="2" l="1739705185239" />
     </e>
     <e n="EditorSelectWord">
-      <i c="25" l="1739713991371" />
+      <i c="28" l="1739779177478" />
     </e>
     <e n="EditorUp">
-      <i c="3" l="1739714046334" />
+      <i c="5" l="1739779095645" />
+    </e>
+    <e n="EditorUpWithSelection">
+      <i c="63" l="1739778764557" />
     </e>
     <e n="EvaluateExpression">
       <i c="1" l="1739705187414" />
@@ -70,19 +85,19 @@
       <i c="1" l="1739432893166" />
     </e>
     <e n="GotoDeclaration">
-      <i c="24" l="1739713014408" />
+      <i c="35" l="1739779536453" />
     </e>
     <e n="InsertInlineCompletionAction">
       <i c="7" l="1739704907597" />
     </e>
     <e n="OpenFile">
-      <i c="3" l="1739690528534" />
+      <i c="4" l="1739778072315" />
     </e>
     <e n="Rerun">
       <i c="1" l="1739433489954" />
     </e>
     <e n="Resume">
-      <i c="9" l="1739707727774" />
+      <i c="12" l="1739779956161" />
     </e>
     <e n="Run">
       <i c="2" l="1739433475962" />
@@ -91,16 +106,16 @@
       <i c="1" l="1739433367053" />
     </e>
     <e n="StepInto">
-      <i c="14" l="1739705241186" />
+      <i c="16" l="1739779947020" />
     </e>
     <e n="StepOver">
-      <i c="47" l="1739705302128" />
+      <i c="49" l="1739779953171" />
     </e>
     <e n="Stop">
       <i c="2" l="1739714051514" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="7" l="1739704998400" />
+      <i c="8" l="1739779806434" />
     </e>
     <e n="UsageView.Rerun">
       <i c="1" l="1739690669133" />
@@ -133,7 +148,7 @@
       <i c="4" l="1739705004155" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
-      <i c="2" l="1739704862923" />
+      <i c="4" l="1739779793805" />
     </e>
     <e n="com.intellij.xdebugger.impl.ui.BreakpointEditor$2">
       <i c="1" l="1739705021317" />
