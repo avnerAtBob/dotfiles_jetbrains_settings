@@ -1,0 +1,9 @@
+<application>
+  <component name="PluginFreezes">
+    <option name="latestNotificationTime">
+      <map>
+        <entry key="io.gitpod.jetbrains.remote" value="2025-02-24T18:10:15.643120473Z" />
+      </map>
+    </option>
+  </component>
+</application>

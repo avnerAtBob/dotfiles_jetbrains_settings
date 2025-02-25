@@ -18,41 +18,9 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="/workspace/payroll">
-          <value>
-            <RecentProjectMetaInfo frameTitle="bob-payroll" opened="true" projectWorkspaceId="2sZnz9dg7SpXXYscjGUYd1JgZi4">
-              <option name="activationTimestamp" value="1739809169425" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="IU-243.23654.117" />
-              <option name="buildTimestamp" value="1737003600000" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="6" />
-              </option>
-              <frame x="0" y="0" width="1440" height="2560" />
-              <option name="productionCode" value="IU" />
-              <option name="projectOpenTimestamp" value="1739801113818" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="/workspace/hibob">
-          <value>
-            <RecentProjectMetaInfo frameTitle="hibob" opened="true" projectWorkspaceId="2syfjQtBMlG1NZksyd6dI08TCuB">
-              <option name="activationTimestamp" value="1739807613363" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="IU-243.23654.117" />
-              <option name="buildTimestamp" value="1737003600000" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="7" />
-              </option>
-              <frame x="0" y="0" width="1440" height="2560" />
-              <option name="productionCode" value="IU" />
-              <option name="projectOpenTimestamp" value="1739801393490" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="/workspace/payroll-hub-data">
           <value>
-            <RecentProjectMetaInfo frameTitle="payroll-hub-data" opened="true" projectWorkspaceId="2tAkGbbCEYqa9VkSOWBpVzGFbvJ">
+            <RecentProjectMetaInfo frameTitle="payroll-hub-data" projectWorkspaceId="2tAkGbbCEYqa9VkSOWBpVzGFbvJ">
               <option name="activationTimestamp" value="1739809205448" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="IU-243.23654.117" />
@@ -66,9 +34,41 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="/workspace/hibob">
+          <value>
+            <RecentProjectMetaInfo frameTitle="hibob" projectWorkspaceId="2syfjQtBMlG1NZksyd6dI08TCuB">
+              <option name="activationTimestamp" value="1740437204276" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-243.24978.46" />
+              <option name="buildTimestamp" value="1739284740000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="20" y="792" width="1400" height="1000" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1740393110759" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/workspace/payroll">
+          <value>
+            <RecentProjectMetaInfo frameTitle="bob-payroll" opened="true" projectWorkspaceId="2sZnz9dg7SpXXYscjGUYd1JgZi4">
+              <option name="activationTimestamp" value="1740498936573" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-243.24978.46" />
+              <option name="buildTimestamp" value="1739284740000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="20" y="792" width="1400" height="1000" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1740497318891" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="/workspace/payroll-hub-data" />
+    <option name="lastOpenedProject" value="/workspace/payroll" />
     <option name="lastProjectLocation" value="/workspace" />
   </component>
 </application>
