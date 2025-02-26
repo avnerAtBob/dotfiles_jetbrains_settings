@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc8b98d6-5473-441a-ad5b-59e09b240246" name="Changes" comment="" />
+    <list default="true" id="bc8b98d6-5473-441a-ad5b-59e09b240246" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/hibob/core/report/paycyclereport/helper/RehireHelper.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/hibob/core/report/paycyclereport/helper/RehireHelper.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/kotlin/com/hibob/core/report/paycyclereport/helper/RehireHelperTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/kotlin/com/hibob/core/report/paycyclereport/helper/RehireHelperTest.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,24 +54,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Gradle.Build payroll.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.PayrollApp.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;Shell Script.gradle flyway.executor&quot;: &quot;Debug&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;avner/cfit/future__rehire__missing&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/workspace/payroll&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Build payroll.executor": "Run",
+    "Gradle.checkIfEmployeeIsRehired.GIVEN same start date and original start date with terminated status after hired WHEN checking if rehire THEN should return false.executor": "Debug",
+    "Kotlin.PayrollApp.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Shell Script.gradle flyway.executor": "Debug",
+    "git-widget-placeholder": "avner/cfit/detect__rehire__by__lifeCycleStatus",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/workspace/payroll",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RdControllerToolWindowsLayoutState" isNewUi="true">
     <layout>
       <window_info id="Bookmarks" side_tool="true" />
@@ -76,7 +80,7 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22187501" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22175926" />
       <window_info id="Commit" order="1" weight="0.22187501" />
       <window_info id="Welcome to GitHub Copilot" order="2" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
@@ -90,8 +94,8 @@
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.18567708" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="3" weight="0.12910156" />
-      <window_info anchor="bottom" id="Debug" order="4" visible="true" weight="0.3154297" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.23880208" />
+      <window_info anchor="bottom" id="Debug" order="4" visible="true" weight="0.23880208" />
       <window_info anchor="bottom" id="Services" order="5" weight="0.21308593" />
       <window_info anchor="bottom" id="Build" order="6" weight="0.3298828" />
       <window_info anchor="bottom" id="Run" order="7" weight="0.3298828" />
@@ -111,7 +115,37 @@
       <window_info anchor="right" id="GitHub Copilot Chat" order="6" />
     </layout>
   </component>
-  <component name="RunManager" selected="Kotlin.PayrollApp" />
+  <component name="RunManager" selected="Gradle.checkIfEmployeeIsRehired.GIVEN same start date and original start date with terminated status after hired WHEN checking if rehire THEN should return false">
+    <configuration name="checkIfEmployeeIsRehired.GIVEN same start date and original start date with terminated status after hired WHEN checking if rehire THEN should return false" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.hibob.core.report.paycyclereport.helper.RehireHelperTest$checkIfEmployeeIsRehired.GIVEN same start date and original start date with terminated status after hired WHEN checking if rehire THEN should return false&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.checkIfEmployeeIsRehired.GIVEN same start date and original start date with terminated status after hired WHEN checking if rehire THEN should return false" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -134,6 +168,7 @@
       <workItem from="1739801115928" duration="6244000" />
       <workItem from="1740392891948" duration="4615000" />
       <workItem from="1740497320804" duration="1570000" />
+      <workItem from="1740553941552" duration="830000" />
     </task>
     <servers />
   </component>
@@ -163,6 +198,11 @@
           <url>file://$PROJECT_DIR$/src/main/kotlin/com/hibob/core/report/paycyclereport/service/JoinersReportService.kt</url>
           <line>469</line>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/com/hibob/core/report/paycyclereport/helper/RehireHelper.kt</url>
+          <line>40</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-function">
           <url>file://$PROJECT_DIR$/src/main/kotlin/com/hibob/common/auth/BobConnector.kt</url>
