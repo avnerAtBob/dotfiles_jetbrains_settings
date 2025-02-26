@@ -85,9 +85,9 @@
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.32994792" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.32994792" />
+      <window_info anchor="bottom" id="Debug" order="4" visible="true" weight="0.3078704" />
       <window_info anchor="bottom" id="Services" order="4" />
-      <window_info anchor="bottom" id="Find" order="4" visible="true" weight="0.3300926" />
+      <window_info anchor="bottom" id="Find" order="4" weight="0.3300926" />
       <window_info anchor="right" id="sbt" />
       <window_info anchor="right" id="Endpoints" />
       <window_info anchor="right" id="Hierarchy" />
@@ -96,7 +96,7 @@
       <window_info anchor="right" id="bsp" />
       <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
       <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
-      <window_info active="true" anchor="right" id="Database" order="2" visible="true" weight="0.32994792" />
+      <window_info active="true" anchor="right" id="Database" order="2" visible="true" weight="0.1861979" />
       <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
       <window_info anchor="right" id="Maven" order="4" weight="0.25" />
       <window_info anchor="right" id="github.copilotToolWindow" order="4" />
@@ -121,7 +121,7 @@
       <option name="presentableId" value="Default" />
       <updated>1740352999961</updated>
       <workItem from="1740353003611" duration="83000" />
-      <workItem from="1740574799774" duration="6409000" />
+      <workItem from="1740574799774" duration="6883000" />
     </task>
     <servers />
   </component>

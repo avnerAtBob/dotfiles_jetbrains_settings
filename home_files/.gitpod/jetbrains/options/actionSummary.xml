@@ -54,6 +54,12 @@
     <e n="SaveAll">
       <i c="2" l="1740578453683" />
     </e>
+    <e n="StepInto">
+      <i c="2" l="1740581908041" />
+    </e>
+    <e n="StepOver">
+      <i c="19" l="1740581900283" />
+    </e>
     <e n="ToggleLineBreakpoint">
       <i c="1" l="1740581659313" />
     </e>
