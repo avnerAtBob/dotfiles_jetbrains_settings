@@ -1,10 +1,13 @@
 <application>
   <component name="ActionsLocalSummary">
+    <e n="Back">
+      <i c="3" l="1740579048634" />
+    </e>
     <e n="Debug">
       <i c="2" l="1740575418378" />
     </e>
     <e n="EditorBackSpace">
-      <i c="8" l="1740578446830" />
+      <i c="15" l="1740578765361" />
     </e>
     <e n="EditorDelete">
       <i c="1" l="1740578444881" />
@@ -28,7 +31,7 @@
       <i c="1" l="1740578444558" />
     </e>
     <e n="EditorSelectWord">
-      <i c="20" l="1740578345038" />
+      <i c="23" l="1740578906409" />
     </e>
     <e n="FindInPath">
       <i c="3" l="1740577023520" />
@@ -37,7 +40,7 @@
       <i c="2" l="1740575168961" />
     </e>
     <e n="GotoDeclaration">
-      <i c="11" l="1740577124347" />
+      <i c="18" l="1740579002250" />
     </e>
     <e n="OpenFile">
       <i c="1" l="1740574912221" />
