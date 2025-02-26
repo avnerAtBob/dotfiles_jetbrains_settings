@@ -16,6 +16,7 @@
   <component name="PropertyService"><![CDATA[{
   "keyToString": {
     "CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2": "0.59950554",
+    "GradleSupport.hidePassedTests": "false",
     "GradleSupport.showInternalTestNodes": "false",
     "Kotlin-Was-Debugged": "141",
     "LAST_CALCULATED_COLOR_INDEX_KEY": "0",

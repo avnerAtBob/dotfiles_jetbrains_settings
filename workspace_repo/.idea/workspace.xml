@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc8b98d6-5473-441a-ad5b-59e09b240246" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/hibob/core/report/paycyclereport/helper/RehireHelper.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/hibob/core/report/paycyclereport/helper/RehireHelper.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/kotlin/com/hibob/core/report/paycyclereport/helper/RehireHelperTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/kotlin/com/hibob/core/report/paycyclereport/helper/RehireHelperTest.kt" afterDir="false" />
-    </list>
+    <list default="true" id="bc8b98d6-5473-441a-ad5b-59e09b240246" name="Changes" comment="verify rehired after termination" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,6 +54,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Gradle.Build payroll.executor": "Run",
+    "Gradle.RehireHelperTest.executor": "Run",
     "Gradle.checkIfEmployeeIsRehired.GIVEN same start date and original start date with terminated status after hired WHEN checking if rehire THEN should return false.executor": "Debug",
     "Kotlin.PayrollApp.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -80,8 +78,8 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22175926" />
-      <window_info id="Commit" order="1" weight="0.22187501" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.22175926" />
+      <window_info active="true" id="Commit" order="1" visible="true" weight="0.22175926" />
       <window_info id="Welcome to GitHub Copilot" order="2" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -95,10 +93,10 @@
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.23880208" />
-      <window_info anchor="bottom" id="Debug" order="4" visible="true" weight="0.23880208" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.23880208" />
       <window_info anchor="bottom" id="Services" order="5" weight="0.21308593" />
-      <window_info anchor="bottom" id="Build" order="6" weight="0.3298828" />
-      <window_info anchor="bottom" id="Run" order="7" weight="0.3298828" />
+      <window_info anchor="bottom" id="Build" order="6" weight="0.32994792" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.32994792" />
       <window_info anchor="bottom" id="Find" order="8" visible="true" weight="0.13925782" />
       <window_info anchor="right" id="sbt" />
       <window_info anchor="right" id="Endpoints" />
@@ -193,8 +191,17 @@
       <workItem from="1739801115928" duration="6244000" />
       <workItem from="1740392891948" duration="4615000" />
       <workItem from="1740497320804" duration="1570000" />
-      <workItem from="1740553941552" duration="830000" />
+      <workItem from="1740553941552" duration="1161000" />
     </task>
+    <task id="LOCAL-00001" summary="verify rehired after termination">
+      <option name="closed" value="true" />
+      <created>1740555091694</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740555091694</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,6 +218,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="verify rehired after termination" />
+    <option name="LAST_COMMIT_MESSAGE" value="verify rehired after termination" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -223,11 +234,6 @@
           <url>file://$PROJECT_DIR$/src/main/kotlin/com/hibob/core/report/paycyclereport/service/JoinersReportService.kt</url>
           <line>469</line>
           <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/com/hibob/core/report/paycyclereport/helper/RehireHelper.kt</url>
-          <line>40</line>
-          <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-function">
           <url>file://$PROJECT_DIR$/src/main/kotlin/com/hibob/common/auth/BobConnector.kt</url>
