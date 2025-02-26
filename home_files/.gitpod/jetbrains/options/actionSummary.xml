@@ -37,13 +37,13 @@
       <i c="1" l="1740578444558" />
     </e>
     <e n="EditorSelectWord">
-      <i c="34" l="1740581127454" />
+      <i c="65" l="1740581610244" />
     </e>
     <e n="FindInPath">
       <i c="3" l="1740577023520" />
     </e>
     <e n="FindUsages">
-      <i c="2" l="1740575168961" />
+      <i c="3" l="1740581568081" />
     </e>
     <e n="GotoDeclaration">
       <i c="23" l="1740581095721" />
@@ -53,6 +53,9 @@
     </e>
     <e n="SaveAll">
       <i c="2" l="1740578453683" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="1" l="1740581659313" />
     </e>
     <e n="com.intellij.database.dataSource.LocalDataSourceManager$2">
       <i c="1" l="1740581012361" />
