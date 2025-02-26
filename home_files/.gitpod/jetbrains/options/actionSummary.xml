@@ -1,7 +1,13 @@
 <application>
   <component name="ActionsLocalSummary">
     <e n="Back">
-      <i c="3" l="1740579048634" />
+      <i c="8" l="1740580937966" />
+    </e>
+    <e n="DatabaseView.AddActionGroupPopup">
+      <i c="1" l="1740581006800" />
+    </e>
+    <e n="DatabaseView.PropertiesAction">
+      <i c="1" l="1740581037663" />
     </e>
     <e n="Debug">
       <i c="2" l="1740575418378" />
@@ -31,7 +37,7 @@
       <i c="1" l="1740578444558" />
     </e>
     <e n="EditorSelectWord">
-      <i c="23" l="1740578906409" />
+      <i c="34" l="1740581127454" />
     </e>
     <e n="FindInPath">
       <i c="3" l="1740577023520" />
@@ -40,13 +46,16 @@
       <i c="2" l="1740575168961" />
     </e>
     <e n="GotoDeclaration">
-      <i c="18" l="1740579002250" />
+      <i c="23" l="1740581095721" />
     </e>
     <e n="OpenFile">
       <i c="1" l="1740574912221" />
     </e>
     <e n="SaveAll">
       <i c="2" l="1740578453683" />
+    </e>
+    <e n="com.intellij.database.dataSource.LocalDataSourceManager$2">
+      <i c="1" l="1740581012361" />
     </e>
     <e n="com.intellij.execution.actions.RunSpecifiedConfigExecutorAction">
       <i c="1" l="1740574938877" />
