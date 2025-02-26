@@ -115,7 +115,31 @@
       <window_info anchor="right" id="GitHub Copilot Chat" order="6" />
     </layout>
   </component>
-  <component name="RunManager" selected="Gradle.checkIfEmployeeIsRehired.GIVEN same start date and original start date with terminated status after hired WHEN checking if rehire THEN should return false">
+  <component name="RunManager" selected="Gradle.RehireHelperTest">
+    <configuration name="RehireHelperTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.hibob.core.report.paycyclereport.helper.RehireHelperTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
     <configuration name="checkIfEmployeeIsRehired.GIVEN same start date and original start date with terminated status after hired WHEN checking if rehire THEN should return false" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -142,6 +166,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.RehireHelperTest" />
         <item itemvalue="Gradle.checkIfEmployeeIsRehired.GIVEN same start date and original start date with terminated status after hired WHEN checking if rehire THEN should return false" />
       </list>
     </recent_temporary>
