@@ -8,7 +8,6 @@
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/hibob/common/s3/S3Controller.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/hibob/common/s3/S3Controller.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/hibob/core/report/paycyclereport/helper/RehireHelper.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/hibob/core/report/paycyclereport/helper/RehireHelper.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/hibob/core/report/paycyclereport/service/JoinersReportService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/hibob/core/report/paycyclereport/service/JoinersReportService.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/hibob/payroll/PayrollReportController.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/hibob/payroll/PayrollReportController.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +121,7 @@
       <updated>1740352999961</updated>
       <workItem from="1740353003611" duration="83000" />
       <workItem from="1740574799774" duration="6883000" />
-      <workItem from="1740898868714" duration="312000" />
+      <workItem from="1740898868714" duration="632000" />
     </task>
     <servers />
   </component>
