@@ -80,7 +80,6 @@
       <window_info anchor="bottom" id="internal-profiler" />
       <window_info anchor="bottom" id="TODO" />
       <window_info anchor="bottom" id="File Transfer" />
-      <window_info anchor="bottom" id="Run" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Problems" order="1" />
@@ -88,7 +87,8 @@
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.29212964" />
       <window_info anchor="bottom" id="Debug" order="4" visible="true" weight="0.3078704" />
       <window_info anchor="bottom" id="Services" order="5" />
-      <window_info anchor="bottom" id="Find" order="6" visible="true" weight="0.3300926" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.3300926" />
+      <window_info anchor="bottom" id="Find" order="6" weight="0.3300926" />
       <window_info anchor="right" id="sbt" />
       <window_info anchor="right" id="Endpoints" />
       <window_info anchor="right" id="Hierarchy" />
@@ -123,7 +123,7 @@
       <updated>1740352999961</updated>
       <workItem from="1740353003611" duration="83000" />
       <workItem from="1740574799774" duration="6883000" />
-      <workItem from="1740898868714" duration="1708000" />
+      <workItem from="1740898868714" duration="2346000" />
     </task>
     <servers />
   </component>
