@@ -7,7 +7,7 @@
       <i c="9" l="1740582338064" />
     </e>
     <e n="ChangesView.Revert">
-      <i c="1" l="1740899177226" />
+      <i c="3" l="1740899498521" />
     </e>
     <e n="DatabaseView.AddActionGroupPopup">
       <i c="1" l="1740581006800" />
@@ -83,6 +83,9 @@
     </e>
     <e n="com.intellij.database.dataSource.LocalDataSourceManager$2">
       <i c="1" l="1740581012361" />
+    </e>
+    <e n="com.intellij.diff.tools.util.base.TextDiffViewerUtil$ComboBoxSettingAction$MyAction">
+      <i c="1" l="1740899184066" />
     </e>
     <e n="com.intellij.execution.actions.RunSpecifiedConfigExecutorAction">
       <i c="1" l="1740574938877" />
