@@ -2,33 +2,35 @@
   <component name="RecentProjectsManager">
     <option name="additionalInfo">
       <map>
-        <entry key="/workspace/payroll">
-          <value>
-            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2tSkjfghiW3Tn0sYp3Vz6GcKW9g">
-              <option name="activationTimestamp" value="1740581761509" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="IU-243.24978.46" />
-              <option name="buildTimestamp" value="1739284740000" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="7" />
-              </option>
-              <option name="productionCode" value="IU" />
-              <option name="projectOpenTimestamp" value="1740574798263" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="/workspace/hibob">
           <value>
-            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2ta0YP3LClk5RmwFmRvMpztxm96">
-              <option name="activationTimestamp" value="1740578418780" />
+            <RecentProjectMetaInfo frameTitle="hibob" projectWorkspaceId="2ta0YP3LClk5RmwFmRvMpztxm96">
+              <option name="activationTimestamp" value="1740584041518" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="IU-243.24978.46" />
               <option name="buildTimestamp" value="1739284740000" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="8" />
               </option>
+              <frame x="10" y="435" width="1080" height="1920" />
               <option name="productionCode" value="IU" />
               <option name="projectOpenTimestamp" value="1740574924594" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/workspace/payroll">
+          <value>
+            <RecentProjectMetaInfo frameTitle="bob-payroll" opened="true" projectWorkspaceId="2tSkjfghiW3Tn0sYp3Vz6GcKW9g">
+              <option name="activationTimestamp" value="1740899179275" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-243.24978.46" />
+              <option name="buildTimestamp" value="1739284740000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="72" y="421" width="1080" height="1920" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1740898867385" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

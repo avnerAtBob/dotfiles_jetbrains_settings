@@ -1,7 +1,13 @@
 <application>
   <component name="ActionsLocalSummary">
+    <e n="Annotate">
+      <i c="1" l="1740583977204" />
+    </e>
     <e n="Back">
-      <i c="8" l="1740580937966" />
+      <i c="9" l="1740582338064" />
+    </e>
+    <e n="ChangesView.Revert">
+      <i c="1" l="1740899177226" />
     </e>
     <e n="DatabaseView.AddActionGroupPopup">
       <i c="1" l="1740581006800" />
@@ -13,7 +19,10 @@
       <i c="2" l="1740575418378" />
     </e>
     <e n="EditorBackSpace">
-      <i c="15" l="1740578765361" />
+      <i c="20" l="1740583822380" />
+    </e>
+    <e n="EditorCopy">
+      <i c="4" l="1740583914844" />
     </e>
     <e n="EditorDelete">
       <i c="1" l="1740578444881" />
@@ -22,7 +31,7 @@
       <i c="2" l="1740578447667" />
     </e>
     <e n="EditorDownWithSelection">
-      <i c="2" l="1740578446156" />
+      <i c="14" l="1740583868161" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="1" l="1740578444236" />
@@ -30,23 +39,29 @@
     <e n="EditorLineEnd">
       <i c="1" l="1740578445691" />
     </e>
+    <e n="EditorLineStart">
+      <i c="5" l="1740583866958" />
+    </e>
     <e n="EditorLineStartWithSelection">
       <i c="1" l="1740578446444" />
+    </e>
+    <e n="EditorRight">
+      <i c="3" l="1740583865153" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="1" l="1740578444558" />
     </e>
     <e n="EditorSelectWord">
-      <i c="65" l="1740581610244" />
+      <i c="86" l="1740583957607" />
     </e>
     <e n="FindInPath">
-      <i c="3" l="1740577023520" />
+      <i c="4" l="1740583820412" />
     </e>
     <e n="FindUsages">
       <i c="3" l="1740581568081" />
     </e>
     <e n="GotoDeclaration">
-      <i c="23" l="1740581095721" />
+      <i c="27" l="1740583965719" />
     </e>
     <e n="OpenFile">
       <i c="1" l="1740574912221" />
@@ -59,6 +74,9 @@
     </e>
     <e n="StepOver">
       <i c="19" l="1740581900283" />
+    </e>
+    <e n="Stop">
+      <i c="1" l="1740584694873" />
     </e>
     <e n="ToggleLineBreakpoint">
       <i c="1" l="1740581659313" />
