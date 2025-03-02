@@ -4,7 +4,7 @@
       <i c="1" l="1740583977204" />
     </e>
     <e n="Back">
-      <i c="9" l="1740582338064" />
+      <i c="12" l="1740900638160" />
     </e>
     <e n="ChangesView.Revert">
       <i c="3" l="1740899498521" />
@@ -52,16 +52,16 @@
       <i c="1" l="1740578444558" />
     </e>
     <e n="EditorSelectWord">
-      <i c="86" l="1740583957607" />
+      <i c="94" l="1740900646158" />
     </e>
     <e n="FindInPath">
       <i c="4" l="1740583820412" />
     </e>
     <e n="FindUsages">
-      <i c="3" l="1740581568081" />
+      <i c="4" l="1740900229186" />
     </e>
     <e n="GotoDeclaration">
-      <i c="27" l="1740583965719" />
+      <i c="36" l="1740900655022" />
     </e>
     <e n="OpenFile">
       <i c="1" l="1740574912221" />
@@ -80,6 +80,9 @@
     </e>
     <e n="ToggleLineBreakpoint">
       <i c="1" l="1740581659313" />
+    </e>
+    <e n="Vcs.UpdateProject">
+      <i c="1" l="1740899503319" />
     </e>
     <e n="com.intellij.database.dataSource.LocalDataSourceManager$2">
       <i c="1" l="1740581012361" />
