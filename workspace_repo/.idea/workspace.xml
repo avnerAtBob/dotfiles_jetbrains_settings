@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1dd2d4ab-7141-44d8-9f7b-bb23c8f276d5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/hibob/common/s3/S3Controller.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/hibob/common/s3/S3Controller.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/hibob/core/report/paycyclereport/helper/RehireHelper.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/hibob/core/report/paycyclereport/helper/RehireHelper.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/hibob/core/report/paycyclereport/service/JoinersReportService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/hibob/core/report/paycyclereport/service/JoinersReportService.kt" afterDir="false" />
     </list>
@@ -32,6 +31,9 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2tSkjfghiW3Tn0sYp3Vz6GcKW9g" />
+  <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -67,8 +69,8 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.15130208" />
-      <window_info active="true" id="Commit" order="1" visible="true" weight="0.33015046" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2416088" />
+      <window_info id="Commit" order="1" weight="0.33015046" />
       <window_info id="Welcome to GitHub Copilot" order="2" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -83,10 +85,10 @@
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.29212964" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.29212964" />
       <window_info anchor="bottom" id="Debug" order="4" visible="true" weight="0.3078704" />
       <window_info anchor="bottom" id="Services" order="5" />
-      <window_info anchor="bottom" id="Find" order="6" weight="0.3300926" />
+      <window_info anchor="bottom" id="Find" order="6" visible="true" weight="0.3300926" />
       <window_info anchor="right" id="sbt" />
       <window_info anchor="right" id="Endpoints" />
       <window_info anchor="right" id="Hierarchy" />
@@ -121,7 +123,7 @@
       <updated>1740352999961</updated>
       <workItem from="1740353003611" duration="83000" />
       <workItem from="1740574799774" duration="6883000" />
-      <workItem from="1740898868714" duration="632000" />
+      <workItem from="1740898868714" duration="1708000" />
     </task>
     <servers />
   </component>
