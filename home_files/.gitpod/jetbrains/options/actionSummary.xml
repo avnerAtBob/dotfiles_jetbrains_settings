@@ -69,6 +69,9 @@
     <e n="OpenFile">
       <i c="2" l="1742208066222" />
     </e>
+    <e n="Resume">
+      <i c="1" l="1742214236279" />
+    </e>
     <e n="SaveAll">
       <i c="3" l="1742208101558" />
     </e>
@@ -113,6 +116,9 @@
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
       <i c="1" l="1740576901367" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="1" l="1742214234440" />
     </e>
   </component>
 </application>

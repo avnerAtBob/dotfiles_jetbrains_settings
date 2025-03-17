@@ -120,23 +120,12 @@
       <workItem from="1740353003611" duration="83000" />
       <workItem from="1740574799774" duration="6883000" />
       <workItem from="1740898868714" duration="7890000" />
-      <workItem from="1742206965665" duration="3977000" />
+      <workItem from="1742206965665" duration="4819000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/com/hibob/core/report/paycyclereport/service/JoinersReportService.kt</url>
-          <line>106</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
