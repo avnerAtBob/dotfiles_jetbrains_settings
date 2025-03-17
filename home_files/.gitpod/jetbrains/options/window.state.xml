@@ -1,10 +1,10 @@
 <application>
   <component name="DimensionService">
     <location key="find.popup.0.0.1080.1920" x="223" y="604" />
-    <size key="GridCell.Tab.0.left.0.0.1080.1920" width="998" height="458" />
-    <size key="GridCell.Tab.0.center.0.0.1080.1920" width="998" height="458" />
-    <size key="GridCell.Tab.0.right.0.0.1080.1920" width="998" height="458" />
-    <size key="GridCell.Tab.0.bottom.0.0.1080.1920" width="998" height="458" />
+    <size key="GridCell.Tab.0.left.0.0.1080.1920" width="998" height="314" />
+    <size key="GridCell.Tab.0.center.0.0.1080.1920" width="998" height="314" />
+    <size key="GridCell.Tab.0.right.0.0.1080.1920" width="998" height="314" />
+    <size key="GridCell.Tab.0.bottom.0.0.1080.1920" width="998" height="314" />
     <size key="GridCell.Tab.1.left.0.0.1080.1920" width="998" height="643" />
     <size key="GridCell.Tab.1.center.0.0.1080.1920" width="998" height="643" />
     <size key="GridCell.Tab.1.right.0.0.1080.1920" width="998" height="643" />
