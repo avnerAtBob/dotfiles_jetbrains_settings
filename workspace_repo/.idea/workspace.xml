@@ -66,11 +66,11 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.500823" visible="true" weight="0.2625" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.500416" visible="true" weight="0.2625" />
       <window_info id="Commit" order="1" weight="0.19490741" />
       <window_info id="Database" order="2" sideWeight="0.5004202" weight="0.19861111" />
       <window_info id="Welcome to GitHub Copilot" order="3" />
-      <window_info active="true" id="Structure" order="4" sideWeight="0.49917698" side_tool="true" visible="true" weight="0.2625" />
+      <window_info active="true" id="Structure" order="4" sideWeight="0.49958402" side_tool="true" visible="true" weight="0.2625" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="TypeScript" />
       <window_info anchor="bottom" id="Profiler" />
@@ -83,8 +83,8 @@
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.30130208" />
-      <window_info anchor="bottom" id="Debug" order="4" visible="true" weight="0.3078704" />
-      <window_info active="true" anchor="bottom" id="Services" order="5" visible="true" weight="0.30130208" />
+      <window_info anchor="bottom" id="Debug" order="4" visible="true" weight="0.30807292" />
+      <window_info anchor="bottom" id="Services" order="5" weight="0.30130208" />
       <window_info anchor="bottom" id="Run" order="6" weight="0.18567708" />
       <window_info anchor="bottom" id="Find" order="7" visible="true" weight="0.32994792" />
       <window_info anchor="right" id="sbt" />
@@ -120,7 +120,7 @@
       <workItem from="1740353003611" duration="83000" />
       <workItem from="1740574799774" duration="6883000" />
       <workItem from="1740898868714" duration="7890000" />
-      <workItem from="1742206965665" duration="2214000" />
+      <workItem from="1742206965665" duration="3977000" />
     </task>
     <servers />
   </component>
