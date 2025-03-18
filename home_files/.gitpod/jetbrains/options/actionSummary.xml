@@ -1,5 +1,8 @@
 <application>
   <component name="ActionsLocalSummary">
+    <e n="$Delete">
+      <i c="1" l="1742286998795" />
+    </e>
     <e n="Annotate">
       <i c="1" l="1740583977204" />
     </e>
@@ -16,7 +19,7 @@
       <i c="3" l="1740910947883" />
     </e>
     <e n="Debug">
-      <i c="3" l="1742211072233" />
+      <i c="4" l="1742290640766" />
     </e>
     <e n="Docker.ImportContexts">
       <i c="1" l="1742207495140" />
@@ -25,7 +28,7 @@
       <i c="20" l="1740583822380" />
     </e>
     <e n="EditorCopy">
-      <i c="4" l="1740583914844" />
+      <i c="6" l="1742219254117" />
     </e>
     <e n="EditorDelete">
       <i c="1" l="1740578444881" />
@@ -34,7 +37,7 @@
       <i c="2" l="1740578447667" />
     </e>
     <e n="EditorDownWithSelection">
-      <i c="14" l="1740583868161" />
+      <i c="16" l="1742219253432" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="1" l="1740578444236" />
@@ -43,7 +46,7 @@
       <i c="1" l="1740578445691" />
     </e>
     <e n="EditorLineStart">
-      <i c="5" l="1740583866958" />
+      <i c="6" l="1742219252700" />
     </e>
     <e n="EditorLineStartWithSelection">
       <i c="1" l="1740578446444" />
@@ -55,10 +58,16 @@
       <i c="1" l="1740578444558" />
     </e>
     <e n="EditorSelectWord">
-      <i c="107" l="1740919276288" />
+      <i c="108" l="1742216787945" />
+    </e>
+    <e n="EditorUp">
+      <i c="1" l="1742219252263" />
+    </e>
+    <e n="FileStructurePopup">
+      <i c="1" l="1742216782935" />
     </e>
     <e n="FindInPath">
-      <i c="5" l="1740916773915" />
+      <i c="8" l="1742219244173" />
     </e>
     <e n="FindUsages">
       <i c="5" l="1740917557939" />
@@ -67,10 +76,16 @@
       <i c="42" l="1740919281174" />
     </e>
     <e n="OpenFile">
-      <i c="2" l="1742208066222" />
+      <i c="3" l="1742216463244" />
+    </e>
+    <e n="Rerun">
+      <i c="3" l="1742282914897" />
     </e>
     <e n="Resume">
       <i c="1" l="1742214236279" />
+    </e>
+    <e n="Run">
+      <i c="1" l="1742216483910" />
     </e>
     <e n="SaveAll">
       <i c="3" l="1742208101558" />
@@ -88,13 +103,13 @@
       <i c="1" l="1740584694873" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="1" l="1740581659313" />
+      <i c="2" l="1742290665845" />
     </e>
     <e n="Unscramble">
       <i c="1" l="1740901168405" />
     </e>
     <e n="Vcs.UpdateProject">
-      <i c="2" l="1742207298593" />
+      <i c="4" l="1742286972400" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
       <i c="1" l="1740917025930" />
@@ -106,13 +121,25 @@
       <i c="1" l="1740899184066" />
     </e>
     <e n="com.intellij.execution.actions.RunSpecifiedConfigExecutorAction">
-      <i c="1" l="1740574938877" />
+      <i c="2" l="1742216477719" />
     </e>
     <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
-      <i c="2" l="1740576903212" />
+      <i c="3" l="1742219233774" />
     </e>
     <e n="com.intellij.ide.hierarchy.HierarchyBrowserBaseEx$ChangeScopeAction$MenuAction">
       <i c="1" l="1740575176719" />
+    </e>
+    <e n="com.intellij.ide.util.FileStructurePopup$NavigateSelectedElementAction">
+      <i c="1" l="1742216785333" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="1" l="1742282922371" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="1" l="1742216774279" />
+    </e>
+    <e n="com.intellij.profiler.ui.ExpandablePanel$MyCollapseAction">
+      <i c="2" l="1742217714033" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
       <i c="1" l="1740576901367" />
