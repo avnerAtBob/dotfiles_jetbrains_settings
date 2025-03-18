@@ -73,10 +73,10 @@
       <i c="5" l="1740917557939" />
     </e>
     <e n="GotoDeclaration">
-      <i c="42" l="1740919281174" />
+      <i c="45" l="1742290719072" />
     </e>
     <e n="OpenFile">
-      <i c="3" l="1742216463244" />
+      <i c="4" l="1742290991171" />
     </e>
     <e n="Rerun">
       <i c="3" l="1742282914897" />
@@ -103,7 +103,7 @@
       <i c="1" l="1740584694873" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="2" l="1742290665845" />
+      <i c="3" l="1742290712295" />
     </e>
     <e n="Unscramble">
       <i c="1" l="1740901168405" />
@@ -145,7 +145,10 @@
       <i c="1" l="1740576901367" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
-      <i c="1" l="1742214234440" />
+      <i c="2" l="1742290718151" />
+    </e>
+    <e n="profiler.DisableProfileOnRunToCursor">
+      <i c="4" l="1742290759612" />
     </e>
   </component>
 </application>

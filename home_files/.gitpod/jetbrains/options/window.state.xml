@@ -30,14 +30,14 @@
     <size key="GridCell.Tab.4.center.0.0.1080.1920" width="998" height="591" />
     <size key="GridCell.Tab.4.right.0.0.1080.1920" width="998" height="591" />
     <size key="GridCell.Tab.4.bottom.0.0.1080.1920" width="998" height="591" />
-    <size key="GridCell.Tab.0.left.0.0.2880.5120@192dpi" width="2716" height="1492" />
-    <size key="GridCell.Tab.0.center.0.0.2880.5120@192dpi" width="2716" height="1492" />
-    <size key="GridCell.Tab.0.right.0.0.2880.5120@192dpi" width="2716" height="1492" />
-    <size key="GridCell.Tab.0.bottom.0.0.2880.5120@192dpi" width="2716" height="1492" />
-    <size key="GridCell.Tab.1.left.0.0.2880.5120@192dpi" width="2716" height="1492" />
-    <size key="GridCell.Tab.1.center.0.0.2880.5120@192dpi" width="2716" height="1492" />
-    <size key="GridCell.Tab.1.right.0.0.2880.5120@192dpi" width="2716" height="1492" />
-    <size key="GridCell.Tab.1.bottom.0.0.2880.5120@192dpi" width="2716" height="1492" />
+    <size key="GridCell.Tab.0.left.0.0.2880.5120@192dpi" width="2716" height="1420" />
+    <size key="GridCell.Tab.0.center.0.0.2880.5120@192dpi" width="2716" height="1420" />
+    <size key="GridCell.Tab.0.right.0.0.2880.5120@192dpi" width="2716" height="1420" />
+    <size key="GridCell.Tab.0.bottom.0.0.2880.5120@192dpi" width="2716" height="1420" />
+    <size key="GridCell.Tab.1.left.0.0.2880.5120@192dpi" width="2716" height="1420" />
+    <size key="GridCell.Tab.1.center.0.0.2880.5120@192dpi" width="2716" height="1420" />
+    <size key="GridCell.Tab.1.right.0.0.2880.5120@192dpi" width="2716" height="1420" />
+    <size key="GridCell.Tab.1.bottom.0.0.2880.5120@192dpi" width="2716" height="1420" />
     <size key="GridCell.Tab.2.left.0.0.2880.5120@192dpi" width="1996" height="1182" />
     <size key="GridCell.Tab.2.center.0.0.2880.5120@192dpi" width="1996" height="1182" />
     <size key="GridCell.Tab.2.right.0.0.2880.5120@192dpi" width="1996" height="1182" />
