@@ -1,13 +1,43 @@
 <application>
   <component name="ActionsLocalSummary">
+    <e n="Debug">
+      <i c="2" l="1744108172744" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="2" l="1744123366728" />
+    </e>
     <e n="EditorCopy">
-      <i c="1" l="1744096987970" />
+      <i c="3" l="1744100926120" />
     </e>
     <e n="EditorSelectWord">
-      <i c="2" l="1744096980760" />
+      <i c="13" l="1744108124620" />
+    </e>
+    <e n="FindInPath">
+      <i c="2" l="1744101459840" />
+    </e>
+    <e n="FindUsages">
+      <i c="2" l="1744101862391" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="8" l="1744108098596" />
     </e>
     <e n="OpenFile">
-      <i c="1" l="1744096937701" />
+      <i c="3" l="1744123346818" />
+    </e>
+    <e n="Rerun">
+      <i c="1" l="1744108168444" />
+    </e>
+    <e n="SaveAll">
+      <i c="1" l="1744123371324" />
+    </e>
+    <e n="Vcs.UpdateProject">
+      <i c="2" l="1744107415814" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
+      <i c="12" l="1744101482265" />
+    </e>
+    <e n="com.intellij.usages.impl.UsageViewImpl$ShowSettings">
+      <i c="1" l="1744101784552" />
     </e>
   </component>
 </application>
