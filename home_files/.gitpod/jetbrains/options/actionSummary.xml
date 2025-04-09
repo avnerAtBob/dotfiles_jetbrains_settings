@@ -1,7 +1,7 @@
 <application>
   <component name="ActionsLocalSummary">
     <e n="Debug">
-      <i c="2" l="1744108172744" />
+      <i c="3" l="1744178766960" />
     </e>
     <e n="EditorBackSpace">
       <i c="2" l="1744123366728" />
@@ -9,8 +9,14 @@
     <e n="EditorCopy">
       <i c="3" l="1744100926120" />
     </e>
+    <e n="EditorDelete">
+      <i c="1" l="1744123486370" />
+    </e>
+    <e n="EditorPreviousWordWithSelection">
+      <i c="6" l="1744123485725" />
+    </e>
     <e n="EditorSelectWord">
-      <i c="13" l="1744108124620" />
+      <i c="14" l="1744124181817" />
     </e>
     <e n="FindInPath">
       <i c="2" l="1744101459840" />
@@ -22,22 +28,46 @@
       <i c="8" l="1744108098596" />
     </e>
     <e n="OpenFile">
-      <i c="3" l="1744123346818" />
+      <i c="4" l="1744123525013" />
     </e>
     <e n="Rerun">
       <i c="1" l="1744108168444" />
     </e>
+    <e n="Resume">
+      <i c="7" l="1744125834410" />
+    </e>
     <e n="SaveAll">
-      <i c="1" l="1744123371324" />
+      <i c="2" l="1744123487145" />
+    </e>
+    <e n="StepInto">
+      <i c="11" l="1744125790469" />
+    </e>
+    <e n="StepOver">
+      <i c="30" l="1744125824152" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="2" l="1744124190916" />
     </e>
     <e n="Vcs.UpdateProject">
       <i c="2" l="1744107415814" />
+    </e>
+    <e n="com.intellij.execution.actions.RunSpecifiedConfigExecutorAction">
+      <i c="1" l="1744123552959" />
+    </e>
+    <e n="com.intellij.execution.impl.ConsoleViewImpl$ClearThisConsoleAction">
+      <i c="1" l="1744123849282" />
+    </e>
+    <e n="com.intellij.profiler.ui.ExpandablePanel$MyCollapseAction">
+      <i c="1" l="1744123828787" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
       <i c="12" l="1744101482265" />
     </e>
     <e n="com.intellij.usages.impl.UsageViewImpl$ShowSettings">
       <i c="1" l="1744101784552" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="1" l="1744126041239" />
     </e>
   </component>
 </application>

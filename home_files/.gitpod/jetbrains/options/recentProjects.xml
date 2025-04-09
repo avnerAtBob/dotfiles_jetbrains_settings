@@ -2,22 +2,26 @@
   <component name="RecentProjectsManager">
     <option name="additionalInfo">
       <map>
-        <entry key="/workspace/payroll">
+        <entry key="/workspace/backend-docker-compose">
           <value>
-            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2tSkjfghiW3Tn0sYp3Vz6GcKW9g">
-              <option name="activationTimestamp" value="1744123352000" />
+            <RecentProjectMetaInfo frameTitle="backend-docker-compose" projectWorkspaceId="2vS0pfxsU1MIbWoxkBegtIK2eXT">
+              <option name="activationTimestamp" value="1744123507224" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="IU-243.24978.46" />
               <option name="buildTimestamp" value="1739284740000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="0" y="0" width="1440" height="2560" />
               <option name="productionCode" value="IU" />
-              <option name="projectOpenTimestamp" value="1744095160044" />
+              <option name="projectOpenTimestamp" value="1744123352110" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
         <entry key="/workspace/payroll-hub-data">
           <value>
             <RecentProjectMetaInfo frameTitle="payroll-hub-data" projectWorkspaceId="2vR9JC5oJOgTi3KL6Si26BmpwsG">
-              <option name="activationTimestamp" value="1744101404525" />
+              <option name="activationTimestamp" value="1744123828782" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="IU-243.24978.46" />
               <option name="buildTimestamp" value="1739284740000" />
@@ -26,28 +30,29 @@
               </option>
               <frame x="0" y="0" width="1440" height="2560" />
               <option name="productionCode" value="IU" />
-              <option name="projectOpenTimestamp" value="1744099266243" />
+              <option name="projectOpenTimestamp" value="1744123534710" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="/workspace/backend-docker-compose">
+        <entry key="/workspace/payroll">
           <value>
-            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2vS0pfxsU1MIbWoxkBegtIK2eXT">
-              <option name="activationTimestamp" value="1744123356367" />
+            <RecentProjectMetaInfo frameTitle="bob-payroll" opened="true" projectWorkspaceId="2tSkjfghiW3Tn0sYp3Vz6GcKW9g">
+              <option name="activationTimestamp" value="1744178766939" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="IU-243.24978.46" />
               <option name="buildTimestamp" value="1739284740000" />
               <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="2" />
+                <RecentProjectColorInfo associatedIndex="7" />
               </option>
+              <frame x="0" y="0" width="1440" height="2560" />
               <option name="productionCode" value="IU" />
-              <option name="projectOpenTimestamp" value="1744123352110" />
+              <option name="projectOpenTimestamp" value="1744177699743" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="/workspace/backend-docker-compose" />
+    <option name="lastOpenedProject" value="/workspace/payroll" />
     <option name="lastProjectLocation" value="/workspace" />
   </component>
 </application>
