@@ -1,8 +1,7 @@
 <application>
   <component name="FeedbackSurveyState">
     <languageToSessions>
-      <entry language="kotlin" sessions-count="36" />
+      <entry language="kotlin" sessions-count="10" />
     </languageToSessions>
-    <option name="acceptedCompletionsCnt" value="4" />
   </component>
 </application>
