@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1dd2d4ab-7141-44d8-9f7b-bb23c8f276d5" name="Changes" comment="" />
+    <list default="true" id="1dd2d4ab-7141-44d8-9f7b-bb23c8f276d5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/hibob/core/report/paycyclereport/service/ChangesReportService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/hibob/core/report/paycyclereport/service/ChangesReportService.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,11 +68,11 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.50091803" weight="0.234375" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.50091803" visible="true" weight="0.234375" />
       <window_info id="Commit" order="1" weight="0.19490741" />
-      <window_info active="true" id="Database" order="2" sideWeight="0.500306" visible="true" weight="0.234375" />
+      <window_info id="Database" order="2" sideWeight="0.500306" weight="0.234375" />
       <window_info id="Welcome to GitHub Copilot" order="3" />
-      <window_info active="true" id="Structure" order="4" sideWeight="0.499694" side_tool="true" visible="true" weight="0.234375" />
+      <window_info active="true" id="Structure" order="4" sideWeight="0.49908203" side_tool="true" visible="true" weight="0.234375" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="TypeScript" />
       <window_info anchor="bottom" id="Profiler" />
@@ -124,7 +126,7 @@
       <workItem from="1742289894090" duration="2758000" />
       <workItem from="1744095163181" duration="7764000" />
       <workItem from="1744177701055" duration="1878000" />
-      <workItem from="1744184643751" duration="4292000" />
+      <workItem from="1744184643751" duration="5394000" />
     </task>
     <servers />
   </component>
@@ -141,6 +143,30 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/com/hibob/core/report/paycyclereport/service/ChangesReportService.kt</url>
+          <line>892</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/com/hibob/core/report/paycyclereport/service/ChangesReportService.kt</url>
+          <line>902</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/com/hibob/core/report/paycyclereport/service/ChangesReportService.kt</url>
+          <line>890</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

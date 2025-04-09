@@ -21,7 +21,7 @@
         <entry key="/workspace/payroll">
           <value>
             <RecentProjectMetaInfo frameTitle="bob-payroll" opened="true" projectWorkspaceId="2tSkjfghiW3Tn0sYp3Vz6GcKW9g">
-              <option name="activationTimestamp" value="1744189312656" />
+              <option name="activationTimestamp" value="1744204162476" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="IU-243.24978.46" />
               <option name="buildTimestamp" value="1739284740000" />
@@ -37,7 +37,7 @@
         <entry key="/workspace/payroll-hub-data">
           <value>
             <RecentProjectMetaInfo frameTitle="payroll-hub-data" opened="true" projectWorkspaceId="2vR9JC5oJOgTi3KL6Si26BmpwsG">
-              <option name="activationTimestamp" value="1744197011695" />
+              <option name="activationTimestamp" value="1744203773062" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="IU-243.24978.46" />
               <option name="buildTimestamp" value="1739284740000" />
@@ -52,7 +52,7 @@
         </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="/workspace/payroll-hub-data" />
+    <option name="lastOpenedProject" value="/workspace/payroll" />
     <option name="lastProjectLocation" value="/workspace" />
   </component>
 </application>
