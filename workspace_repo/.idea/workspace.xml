@@ -126,7 +126,7 @@
       <workItem from="1742289894090" duration="2758000" />
       <workItem from="1744095163181" duration="7764000" />
       <workItem from="1744177701055" duration="1878000" />
-      <workItem from="1744184643751" duration="5394000" />
+      <workItem from="1744184643751" duration="7082000" />
     </task>
     <servers />
   </component>
@@ -164,6 +164,14 @@
             <option name="lambda-ordinal" value="-1" />
           </properties>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/com/hibob/core/report/paycyclereport/service/ChangesReportService.kt</url>
+          <line>908</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
