@@ -238,7 +238,7 @@
       <workItem from="1742289894090" duration="2758000" />
       <workItem from="1744095163181" duration="7764000" />
       <workItem from="1744177701055" duration="1878000" />
-      <workItem from="1744184643751" duration="11937000" />
+      <workItem from="1744184643751" duration="13037000" />
     </task>
     <servers />
   </component>
@@ -284,11 +284,6 @@
             <option name="lambda-ordinal" value="-1" />
           </properties>
           <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/test/kotlin/com/hibob/report/ChangesReportServiceTest.kt</url>
-          <line>1582</line>
-          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
