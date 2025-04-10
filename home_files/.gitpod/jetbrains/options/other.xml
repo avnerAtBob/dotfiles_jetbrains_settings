@@ -1,5 +1,5 @@
 <application>
-  <component name="BuiltInServerOptions" builtInServerPort="62914" />
+  <component name="BuiltInServerOptions" builtInServerPort="51529" />
   <component name="FileEditorProviderManager">{}</component>
   <component name="LangManager">
     <option name="languageName" value="JAVA" />
@@ -18,7 +18,7 @@
     "DbRenameDialog.previewExpanded": "true",
     "GradleSupport.hidePassedTests": "false",
     "GradleSupport.showInternalTestNodes": "false",
-    "Kotlin-Was-Debugged": "198",
+    "Kotlin-Was-Debugged": "243",
     "LAST_CALCULATED_COLOR_INDEX_KEY": "2",
     "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
     "SqlStructureView.filterD.file.structure.state": "true",
@@ -27,6 +27,7 @@
     "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
     "build.toolwindow.run.selection.state": "consoleView",
     "debugger.smart.chooser.counter": "3",
+    "decompiler.legal.notice.accepted": "true",
     "defaultJdkConfigured": "true",
     "enter_selection_count": "3",
     "evlsprt3.243": "3",
