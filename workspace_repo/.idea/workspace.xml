@@ -72,11 +72,11 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5006176" weight="0.228125" />
-      <window_info active="true" id="Commit" order="1" visible="true" weight="0.22187501" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.50053906" visible="true" weight="0.22187501" />
+      <window_info id="Commit" order="1" weight="0.22187501" />
       <window_info id="Database" order="2" sideWeight="0.500306" weight="0.234375" />
       <window_info id="Welcome to GitHub Copilot" order="3" />
-      <window_info active="true" id="Structure" order="4" side_tool="true" visible="true" weight="0.22187501" />
+      <window_info active="true" id="Structure" order="4" sideWeight="0.49946094" side_tool="true" visible="true" weight="0.22187501" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="TypeScript" />
       <window_info anchor="bottom" id="Profiler" />
@@ -263,7 +263,7 @@
       <workItem from="1744177701055" duration="1878000" />
       <workItem from="1744184643751" duration="13037000" />
       <workItem from="1744267034934" duration="479000" />
-      <workItem from="1744273885346" duration="360000" />
+      <workItem from="1744273885346" duration="964000" />
     </task>
     <servers />
   </component>
