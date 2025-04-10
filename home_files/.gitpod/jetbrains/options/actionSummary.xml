@@ -4,7 +4,7 @@
       <i c="12" l="1744205910874" />
     </e>
     <e n="Back">
-      <i c="1" l="1744206182232" />
+      <i c="3" l="1744263143403" />
     </e>
     <e n="CopyReference">
       <i c="2" l="1744189320025" />
@@ -19,10 +19,10 @@
       <i c="4" l="1744184679300" />
     </e>
     <e n="EditorBackSpace">
-      <i c="113" l="1744262726750" />
+      <i c="119" l="1744262818293" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="22" l="1744262143003" />
+      <i c="23" l="1744262781965" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="9" l="1744197127846" />
@@ -31,64 +31,67 @@
       <i c="10" l="1744201738352" />
     </e>
     <e n="EditorCut">
-      <i c="4" l="1744262244501" />
+      <i c="5" l="1744263168809" />
     </e>
     <e n="EditorDelete">
-      <i c="10" l="1744262259077" />
+      <i c="12" l="1744262814480" />
+    </e>
+    <e n="EditorDeleteLine">
+      <i c="1" l="1744263161073" />
     </e>
     <e n="EditorDown">
-      <i c="107" l="1744262732162" />
+      <i c="110" l="1744262819060" />
     </e>
     <e n="EditorDownWithSelection">
-      <i c="26" l="1744262257817" />
+      <i c="32" l="1744263168334" />
     </e>
     <e n="EditorEnter">
-      <i c="19" l="1744262724697" />
+      <i c="20" l="1744262778309" />
     </e>
     <e n="EditorEscape">
       <i c="2" l="1744197271040" />
     </e>
     <e n="EditorLeft">
-      <i c="79" l="1744262200001" />
+      <i c="83" l="1744262817591" />
     </e>
     <e n="EditorLeftWithSelection">
-      <i c="1" l="1744197443493" />
+      <i c="2" l="1744262802545" />
     </e>
     <e n="EditorLineEnd">
-      <i c="11" l="1744262181087" />
+      <i c="12" l="1744262814785" />
     </e>
     <e n="EditorLineEndWithSelection">
       <i c="3" l="1744213285185" />
     </e>
     <e n="EditorLineStart">
-      <i c="26" l="1744262256459" />
+      <i c="28" l="1744263166943" />
     </e>
     <e n="EditorLineStartWithSelection">
       <i c="1" l="1744205891546" />
     </e>
     <e n="EditorNextWord">
-      <i c="38" l="1744262186587" />
+      <i c="40" l="1744262812654" />
     </e>
     <e n="EditorNextWordWithSelection">
       <i c="3" l="1744262062238" />
     </e>
     <e n="EditorPaste">
-      <i c="12" l="1744262247867" />
+      <i c="13" l="1744262760061" />
     </e>
     <e n="EditorPreviousWord">
-      <i c="25" l="1744213215612" />
+      <i c="29" l="1744262817310" />
     </e>
     <e n="EditorPreviousWordWithSelection">
-      <i c="42" l="1744262187553" />
+      <i c="48" l="1744262814176" />
     </e>
     <e n="EditorRight">
-      <i c="29" l="1744262727235" />
+      <i c="31" l="1744262817965" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="1" l="1744262062891" />
     </e>
     <e n="EditorSelectWord">
-      <i c="44" l="1744213449553" />
+      <i c="46" l="1744263257895" />
     </e>
     <e n="EditorTab">
       <i c="4" l="1744262101243" />
@@ -100,7 +103,7 @@
       <i c="2" l="1744101459840" />
     </e>
     <e n="FindUsages">
-      <i c="2" l="1744101862391" />
+      <i c="3" l="1744263206321" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
       <i c="5" l="1744201652800" />
@@ -109,7 +112,7 @@
       <i c="1" l="1744198190064" />
     </e>
     <e n="GotoDeclaration">
-      <i c="14" l="1744206168924" />
+      <i c="15" l="1744263118177" />
     </e>
     <e n="GotoTest">
       <i c="2" l="1744262269761" />
@@ -139,7 +142,7 @@
       <i c="8" l="1744261934564" />
     </e>
     <e n="Resume">
-      <i c="40" l="1744206867545" />
+      <i c="74" l="1744262948855" />
     </e>
     <e n="Run">
       <i c="1" l="1744189019595" />
@@ -172,7 +175,7 @@
       <i c="1" l="1744206676366" />
     </e>
     <e n="XDebugger.MuteBreakpoints">
-      <i c="1" l="1744206866555" />
+      <i c="2" l="1744262947938" />
     </e>
     <e n="com.intellij.database.dataSource.LocalDataSourceManager$2">
       <i c="1" l="1744188132961" />
@@ -184,7 +187,7 @@
       <i c="3" l="1744179098111" />
     </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
-      <i c="2" l="1744197774650" />
+      <i c="3" l="1744262838858" />
     </e>
     <e n="com.intellij.openapi.editor.actions.ScrollToTheEndToolbarAction">
       <i c="1" l="1744187169798" />
