@@ -40,22 +40,22 @@
       <i c="184" l="1744281440076" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="43" l="1744280753644" />
+      <i c="44" l="1744281942616" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="9" l="1744197127846" />
     </e>
     <e n="EditorCopy">
-      <i c="21" l="1744281784819" />
+      <i c="23" l="1744281936002" />
     </e>
     <e n="EditorCut">
       <i c="6" l="1744269478931" />
     </e>
     <e n="EditorDelete">
-      <i c="26" l="1744280768947" />
+      <i c="27" l="1744281954214" />
     </e>
     <e n="EditorDeleteLine">
-      <i c="13" l="1744280412647" />
+      <i c="14" l="1744281976728" />
     </e>
     <e n="EditorDown">
       <i c="199" l="1744281786482" />
@@ -67,7 +67,7 @@
       <i c="2" l="1744270144078" />
     </e>
     <e n="EditorEnter">
-      <i c="37" l="1744280981213" />
+      <i c="38" l="1744281952105" />
     </e>
     <e n="EditorEscape">
       <i c="4" l="1744270091752" />
@@ -79,7 +79,7 @@
       <i c="6" l="1744273270403" />
     </e>
     <e n="EditorLineEnd">
-      <i c="23" l="1744280769133" />
+      <i c="24" l="1744281954315" />
     </e>
     <e n="EditorLineEndWithSelection">
       <i c="4" l="1744266372027" />
@@ -91,28 +91,28 @@
       <i c="1" l="1744205891546" />
     </e>
     <e n="EditorNextWord">
-      <i c="91" l="1744281535102" />
+      <i c="92" l="1744281949130" />
     </e>
     <e n="EditorNextWordWithSelection">
-      <i c="49" l="1744281505301" />
+      <i c="50" l="1744281953061" />
     </e>
     <e n="EditorPaste">
-      <i c="33" l="1744281787107" />
+      <i c="35" l="1744281957049" />
     </e>
     <e n="EditorPreviousWord">
-      <i c="53" l="1744280978225" />
+      <i c="58" l="1744281964490" />
     </e>
     <e n="EditorPreviousWordWithSelection">
       <i c="89" l="1744280768607" />
     </e>
     <e n="EditorRight">
-      <i c="78" l="1744281777665" />
+      <i c="79" l="1744281951850" />
     </e>
     <e n="EditorRightWithSelection">
-      <i c="5" l="1744280634959" />
+      <i c="6" l="1744281953682" />
     </e>
     <e n="EditorSelectWord">
-      <i c="73" l="1744280450843" />
+      <i c="77" l="1744281938397" />
     </e>
     <e n="EditorTab">
       <i c="4" l="1744262101243" />
@@ -133,7 +133,7 @@
       <i c="4" l="1744269597908" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
-      <i c="9" l="1744272576023" />
+      <i c="10" l="1744281967643" />
     </e>
     <e n="GitCheckoutAsNewBranch">
       <i c="1" l="1744280904447" />
@@ -184,7 +184,7 @@
       <i c="2" l="1744272507723" />
     </e>
     <e n="SaveAll">
-      <i c="15" l="1744272302049" />
+      <i c="16" l="1744281977751" />
     </e>
     <e n="StepInto">
       <i c="22" l="1744281547408" />

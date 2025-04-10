@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1dd2d4ab-7141-44d8-9f7b-bb23c8f276d5" name="Changes" comment="">
+    <list default="true" id="1dd2d4ab-7141-44d8-9f7b-bb23c8f276d5" name="Changes" comment="fix some ignored BobPathsTest tests: &#10;getInstanceIds, getSyncStatus and getEmail">
       <change beforePath="$PROJECT_DIR$/src/test/kotlin/com/hibob/payroll/BobPathsTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/kotlin/com/hibob/payroll/BobPathsTest.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -96,11 +96,11 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.50053906" visible="true" weight="0.22187501" />
-      <window_info id="Commit" order="1" weight="0.22187501" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.50053906" weight="0.22187501" />
+      <window_info active="true" id="Commit" order="1" visible="true" weight="0.22187501" />
       <window_info id="Database" order="2" sideWeight="0.500306" weight="0.234375" />
       <window_info id="Welcome to GitHub Copilot" order="3" />
-      <window_info active="true" id="Structure" order="4" sideWeight="0.49946094" side_tool="true" visible="true" weight="0.22187501" />
+      <window_info active="true" id="Structure" order="4" side_tool="true" visible="true" weight="0.22187501" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="TypeScript" />
       <window_info anchor="bottom" id="Profiler" />
@@ -110,11 +110,11 @@
       <window_info anchor="bottom" id="sbt-shell-toolwindow" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.2376953" />
       <window_info anchor="bottom" id="Problems" order="1" />
-      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info active="true" anchor="bottom" id="Problems View" order="2" visible="true" weight="0.2376953" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.12910156" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.2376953" />
       <window_info anchor="bottom" id="Services" order="5" weight="0.31230468" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.2376953" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.2376953" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.20722656" />
       <window_info anchor="bottom" id="Find" order="8" weight="0.3298828" />
       <window_info anchor="right" id="sbt" />
@@ -287,7 +287,7 @@
       <workItem from="1744177701055" duration="1878000" />
       <workItem from="1744184643751" duration="13037000" />
       <workItem from="1744267034934" duration="479000" />
-      <workItem from="1744273885346" duration="3415000" />
+      <workItem from="1744273885346" duration="3533000" />
     </task>
     <servers />
   </component>
@@ -304,6 +304,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fix some ignored BobPathsTest tests: &#10;getInstanceIds, getSyncStatus and getEmail" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix some ignored BobPathsTest tests: &#10;getInstanceIds, getSyncStatus and getEmail" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -341,7 +345,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/test/kotlin/com/hibob/payroll/BobPathsTest.kt</url>
-          <line>172</line>
+          <line>171</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
