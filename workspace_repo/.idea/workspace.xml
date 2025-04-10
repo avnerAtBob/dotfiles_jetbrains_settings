@@ -17,6 +17,16 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
@@ -44,6 +54,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Gradle.AtFlatJsonTest.should return nested value from value if path is missing and value exists.executor": "Debug",
+    "Gradle.BobPathsTest.executor": "Run",
     "Gradle.Build payroll.executor": "Run",
     "Gradle.ChangesReportServiceTest.Successfully get employees changes - with custom toggle (1).executor": "Debug",
     "Gradle.ChangesReportServiceTest.Successfully get employees changes - with custom toggle.executor": "Debug",
@@ -54,6 +66,7 @@
     "Gradle.GetInstanceIdsTest.executor": "Run",
     "Gradle.GetInstanceIdsTest.should return list of longs ignoring nulls and non-numbers.executor": "Debug",
     "Gradle.GetSyncStatusTest.executor": "Debug",
+    "Gradle.IsPayComponentFieldTest.executor": "Run",
     "Gradle.NewHiresTests.get employees - new hire should be in changes with the fields that not been changed in the sync, null fields should not be part.executor": "Debug",
     "Kotlin.PayrollApp.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -95,13 +108,13 @@
       <window_info anchor="bottom" id="TODO" />
       <window_info anchor="bottom" id="File Transfer" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="0" visible="true" weight="0.2376953" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.2376953" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.12910156" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.2376953" />
       <window_info anchor="bottom" id="Services" order="5" weight="0.31230468" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.2376953" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.2376953" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.20722656" />
       <window_info anchor="bottom" id="Find" order="8" weight="0.3298828" />
       <window_info anchor="right" id="sbt" />
@@ -118,8 +131,8 @@
       <window_info anchor="right" id="GitHub Copilot Chat" order="5" weight="0.20590279" />
     </layout>
   </component>
-  <component name="RunManager" selected="Gradle.GetInstanceIdsTest.should return list of longs ignoring nulls and non-numbers">
-    <configuration name="ChangesReportServiceTest.Successfully get employees changes including custom tables changes - with custom toggle" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.BobPathsTest">
+    <configuration name="AtFlatJsonTest.should return nested value from value if path is missing and value exists" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -132,7 +145,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;com.hibob.report.ChangesReportServiceTest.Successfully get employees changes including custom tables changes - with custom toggle&quot;" />
+            <option value="&quot;com.hibob.payroll.BobPathsTest$AtFlatJsonTest.should return nested value from value if path is missing and value exists&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -143,7 +156,7 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="GetEmailTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="BobPathsTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -156,7 +169,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;com.hibob.payroll.BobPathsTest$GetEmailTest&quot;" />
+            <option value="&quot;com.hibob.payroll.BobPathsTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -215,7 +228,7 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="GetSyncStatusTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="IsPayComponentFieldTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -228,7 +241,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;com.hibob.payroll.BobPathsTest$GetSyncStatusTest&quot;" />
+            <option value="&quot;com.hibob.payroll.BobPathsTest$IsPayComponentFieldTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -241,11 +254,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.BobPathsTest" />
+        <item itemvalue="Gradle.IsPayComponentFieldTest" />
+        <item itemvalue="Gradle.AtFlatJsonTest.should return nested value from value if path is missing and value exists" />
         <item itemvalue="Gradle.GetInstanceIdsTest.should return list of longs ignoring nulls and non-numbers" />
         <item itemvalue="Gradle.GetInstanceIdsTest" />
-        <item itemvalue="Gradle.GetEmailTest" />
-        <item itemvalue="Gradle.GetSyncStatusTest" />
-        <item itemvalue="Gradle.ChangesReportServiceTest.Successfully get employees changes including custom tables changes - with custom toggle" />
       </list>
     </recent_temporary>
   </component>
@@ -274,7 +287,7 @@
       <workItem from="1744177701055" duration="1878000" />
       <workItem from="1744184643751" duration="13037000" />
       <workItem from="1744267034934" duration="479000" />
-      <workItem from="1744273885346" duration="2827000" />
+      <workItem from="1744273885346" duration="3415000" />
     </task>
     <servers />
   </component>
