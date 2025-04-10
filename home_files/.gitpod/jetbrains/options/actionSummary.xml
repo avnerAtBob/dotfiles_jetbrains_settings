@@ -37,7 +37,7 @@
       <i c="1" l="1744272073606" />
     </e>
     <e n="EditorBackSpace">
-      <i c="181" l="1744280801831" />
+      <i c="184" l="1744281440076" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="43" l="1744280753644" />
@@ -46,7 +46,7 @@
       <i c="9" l="1744197127846" />
     </e>
     <e n="EditorCopy">
-      <i c="20" l="1744280447072" />
+      <i c="21" l="1744281784819" />
     </e>
     <e n="EditorCut">
       <i c="6" l="1744269478931" />
@@ -58,10 +58,10 @@
       <i c="13" l="1744280412647" />
     </e>
     <e n="EditorDown">
-      <i c="186" l="1744280770192" />
+      <i c="199" l="1744281786482" />
     </e>
     <e n="EditorDownWithSelection">
-      <i c="106" l="1744280403368" />
+      <i c="108" l="1744281786866" />
     </e>
     <e n="EditorDuplicate">
       <i c="2" l="1744270144078" />
@@ -85,19 +85,19 @@
       <i c="4" l="1744266372027" />
     </e>
     <e n="EditorLineStart">
-      <i c="51" l="1744280402378" />
+      <i c="53" l="1744281784050" />
     </e>
     <e n="EditorLineStartWithSelection">
       <i c="1" l="1744205891546" />
     </e>
     <e n="EditorNextWord">
-      <i c="74" l="1744280980125" />
+      <i c="91" l="1744281535102" />
     </e>
     <e n="EditorNextWordWithSelection">
-      <i c="35" l="1744280768303" />
+      <i c="49" l="1744281505301" />
     </e>
     <e n="EditorPaste">
-      <i c="32" l="1744280451161" />
+      <i c="33" l="1744281787107" />
     </e>
     <e n="EditorPreviousWord">
       <i c="53" l="1744280978225" />
@@ -106,7 +106,7 @@
       <i c="89" l="1744280768607" />
     </e>
     <e n="EditorRight">
-      <i c="76" l="1744280980556" />
+      <i c="78" l="1744281777665" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="5" l="1744280634959" />
@@ -118,10 +118,10 @@
       <i c="4" l="1744262101243" />
     </e>
     <e n="EditorUp">
-      <i c="162" l="1744280981714" />
+      <i c="164" l="1744281787486" />
     </e>
     <e n="EvaluateExpression">
-      <i c="3" l="1744280571507" />
+      <i c="5" l="1744281506585" />
     </e>
     <e n="FileStructurePopup">
       <i c="1" l="1744281254526" />
@@ -145,7 +145,7 @@
       <i c="1" l="1744280899748" />
     </e>
     <e n="GotoDeclaration">
-      <i c="35" l="1744281241606" />
+      <i c="36" l="1744281292645" />
     </e>
     <e n="GotoTest">
       <i c="4" l="1744269975193" />
@@ -175,10 +175,10 @@
       <i c="4" l="1744269503356" />
     </e>
     <e n="Rerun">
-      <i c="26" l="1744280986588" />
+      <i c="28" l="1744281800454" />
     </e>
     <e n="Resume">
-      <i c="164" l="1744281069446" />
+      <i c="165" l="1744281638574" />
     </e>
     <e n="Run">
       <i c="2" l="1744272507723" />
@@ -187,19 +187,19 @@
       <i c="15" l="1744272302049" />
     </e>
     <e n="StepInto">
-      <i c="20" l="1744281045577" />
+      <i c="22" l="1744281547408" />
     </e>
     <e n="StepOver">
-      <i c="77" l="1744280944365" />
+      <i c="81" l="1744281551258" />
     </e>
     <e n="Stop">
       <i c="9" l="1744280611269" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="22" l="1744281112896" />
+      <i c="23" l="1744281446346" />
     </e>
     <e n="Vcs.RollbackChangedLines">
-      <i c="8" l="1744281102982" />
+      <i c="10" l="1744281687224" />
     </e>
     <e n="Vcs.ShowDiffChangedLines">
       <i c="1" l="1744197893543" />
@@ -223,7 +223,7 @@
       <i c="3" l="1744179098111" />
     </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
-      <i c="24" l="1744280894965" />
+      <i c="27" l="1744281746936" />
     </e>
     <e n="com.intellij.ide.hierarchy.HierarchyBrowserBaseEx$ChangeScopeAction$MenuAction">
       <i c="1" l="1744269606149" />
@@ -247,7 +247,7 @@
       <i c="1" l="1744197490461" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
-      <i c="10" l="1744281113909" />
+      <i c="11" l="1744281689645" />
     </e>
     <e n="com.jetbrains.rdserver.daemon.tooltips.BackendTooltipActionProvider$getAction$1">
       <i c="1" l="1744265409749" />
