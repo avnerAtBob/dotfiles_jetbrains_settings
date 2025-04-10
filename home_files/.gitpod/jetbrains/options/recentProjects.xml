@@ -18,22 +18,6 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="/workspace/payroll">
-          <value>
-            <RecentProjectMetaInfo frameTitle="bob-payroll" projectWorkspaceId="2tSkjfghiW3Tn0sYp3Vz6GcKW9g">
-              <option name="activationTimestamp" value="1744266464804" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="IU-243.24978.46" />
-              <option name="buildTimestamp" value="1739284740000" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="7" />
-              </option>
-              <frame x="0" y="0" width="1440" height="2560" />
-              <option name="productionCode" value="IU" />
-              <option name="projectOpenTimestamp" value="1744184641764" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="/workspace/payroll-hub-data">
           <value>
             <RecentProjectMetaInfo frameTitle="payroll-hub-data" projectWorkspaceId="2vR9JC5oJOgTi3KL6Si26BmpwsG">
@@ -47,6 +31,22 @@
               <frame x="0" y="0" width="1440" height="2560" />
               <option name="productionCode" value="IU" />
               <option name="projectOpenTimestamp" value="1744188735958" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/workspace/payroll">
+          <value>
+            <RecentProjectMetaInfo frameTitle="bob-payroll" opened="true" projectWorkspaceId="2tSkjfghiW3Tn0sYp3Vz6GcKW9g">
+              <option name="activationTimestamp" value="1744267173232" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-243.24978.46" />
+              <option name="buildTimestamp" value="1739284740000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="0" y="0" width="1440" height="2560" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1744267032947" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

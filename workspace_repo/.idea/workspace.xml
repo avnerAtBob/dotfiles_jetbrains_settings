@@ -8,6 +8,7 @@
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/hibob/core/report/paycyclereport/service/ChangesReportService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/hibob/core/report/paycyclereport/service/ChangesReportService.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/hibob/payroll/BobPaths.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/hibob/payroll/BobPaths.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/kotlin/com/hibob/report/ChangesReportServiceTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/kotlin/com/hibob/report/ChangesReportServiceTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/snapshot-with-custom-tables-delta-response.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/snapshot-with-custom-tables-delta-response.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,34 +40,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Gradle.Build payroll.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.ChangesReportServiceTest.Successfully get employees changes - with custom toggle (1).executor&quot;: &quot;Debug&quot;,
-    &quot;Gradle.ChangesReportServiceTest.Successfully get employees changes - with custom toggle.executor&quot;: &quot;Debug&quot;,
-    &quot;Gradle.ChangesReportServiceTest.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.NewHiresTests.get employees - new hire should be in changes with the fields that not been changed in the sync, null fields should not be part.executor&quot;: &quot;Debug&quot;,
-    &quot;Kotlin.PayrollApp.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;Shell Script.gradle flyway.executor&quot;: &quot;Debug&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/workspace/payroll-hub-data&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.ktlint-plugin&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Build payroll.executor": "Run",
+    "Gradle.ChangesReportServiceTest.Successfully get employees changes - with custom toggle (1).executor": "Debug",
+    "Gradle.ChangesReportServiceTest.Successfully get employees changes - with custom toggle.executor": "Debug",
+    "Gradle.ChangesReportServiceTest.Successfully get employees changes including custom tables changes - with custom toggle.executor": "Debug",
+    "Gradle.ChangesReportServiceTest.executor": "Run",
+    "Gradle.NewHiresTests.get employees - new hire should be in changes with the fields that not been changed in the sync, null fields should not be part.executor": "Debug",
+    "Kotlin.PayrollApp.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Shell Script.gradle flyway.executor": "Debug",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/workspace/payroll-hub-data",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.ktlint-plugin",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;postgresql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
     ]
   }
-}</component>
+}]]></component>
   <component name="RdControllerToolWindowsLayoutState" isNewUi="true">
     <layout>
       <window_info id="Bookmarks" side_tool="true" />
@@ -74,11 +76,11 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5006293" visible="true" weight="0.234375" />
-      <window_info id="Commit" order="1" weight="0.19490741" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5006176" weight="0.228125" />
+      <window_info active="true" id="Commit" order="1" visible="true" weight="0.228125" />
       <window_info id="Database" order="2" sideWeight="0.500306" weight="0.234375" />
       <window_info id="Welcome to GitHub Copilot" order="3" />
-      <window_info active="true" id="Structure" order="4" sideWeight="0.4993707" side_tool="true" visible="true" weight="0.234375" />
+      <window_info active="true" id="Structure" order="4" side_tool="true" visible="true" weight="0.228125" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="TypeScript" />
       <window_info anchor="bottom" id="Profiler" />
@@ -89,12 +91,12 @@
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="3" weight="0.31230468" />
-      <window_info active="true" anchor="bottom" id="Debug" order="4" visible="true" weight="0.3298828" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.12910156" />
+      <window_info anchor="bottom" id="Debug" order="4" visible="true" weight="0.12910156" />
       <window_info anchor="bottom" id="Services" order="5" weight="0.31230468" />
       <window_info anchor="bottom" id="Run" order="6" weight="0.3298828" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.3298828" />
-      <window_info anchor="bottom" id="Find" order="7" weight="0.3298828" />
+      <window_info anchor="bottom" id="Find" order="8" weight="0.3298828" />
       <window_info anchor="right" id="sbt" />
       <window_info anchor="right" id="Endpoints" />
       <window_info anchor="right" id="Hierarchy" />
@@ -106,10 +108,10 @@
       <window_info anchor="right" id="Gradle" order="2" weight="0.25" />
       <window_info anchor="right" id="Maven" order="3" weight="0.25" />
       <window_info anchor="right" id="github.copilotToolWindow" order="4" />
-      <window_info active="true" anchor="right" id="GitHub Copilot Chat" order="5" visible="true" weight="0.21145833" />
+      <window_info anchor="right" id="GitHub Copilot Chat" order="5" weight="0.20590279" />
     </layout>
   </component>
-  <component name="RunManager" selected="Gradle.ChangesReportServiceTest.should include fixed custom field path in highlighted collection">
+  <component name="RunManager" selected="Gradle.ChangesReportServiceTest.Successfully get employees changes including custom tables changes - with custom toggle">
     <configuration name="ChangesReportServiceTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -182,6 +184,30 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
+    <configuration name="ChangesReportServiceTest.Successfully get employees changes including custom tables changes - with custom toggle" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.hibob.report.ChangesReportServiceTest.Successfully get employees changes including custom tables changes - with custom toggle&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
     <configuration name="ChangesReportServiceTest.should include fixed custom field path in highlighted collection" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -206,37 +232,13 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="NewHiresTests.get employees - new hire should be in changes with the fields that not been changed in the sync, null fields should not be part" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;com.hibob.report.ChangesReportServiceTest$NewHiresTests.get employees - new hire should be in changes with the fields that not been changed in the sync, null fields should not be part&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <RunAsTest>true</RunAsTest>
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.ChangesReportServiceTest.Successfully get employees changes including custom tables changes - with custom toggle" />
         <item itemvalue="Gradle.ChangesReportServiceTest.should include fixed custom field path in highlighted collection" />
         <item itemvalue="Gradle.ChangesReportServiceTest.Successfully get employees changes - with custom toggle (1)" />
         <item itemvalue="Gradle.ChangesReportServiceTest.Successfully get employees changes - with custom toggle" />
         <item itemvalue="Gradle.ChangesReportServiceTest" />
-        <item itemvalue="Gradle.NewHiresTests.get employees - new hire should be in changes with the fields that not been changed in the sync, null fields should not be part" />
       </list>
     </recent_temporary>
   </component>
@@ -264,6 +266,7 @@
       <workItem from="1744095163181" duration="7764000" />
       <workItem from="1744177701055" duration="1878000" />
       <workItem from="1744184643751" duration="13037000" />
+      <workItem from="1744267034934" duration="479000" />
     </task>
     <servers />
   </component>
@@ -309,6 +312,11 @@
             <option name="lambda-ordinal" value="-1" />
           </properties>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/test/kotlin/com/hibob/report/ChangesReportServiceTest.kt</url>
+          <line>1721</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -25,7 +25,7 @@
       <i c="1" l="1744263971041" />
     </e>
     <e n="EditorBackSpace">
-      <i c="130" l="1744266184832" />
+      <i c="132" l="1744267484033" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="33" l="1744265621157" />
@@ -55,13 +55,13 @@
       <i c="1" l="1744266370226" />
     </e>
     <e n="EditorEnter">
-      <i c="27" l="1744265574150" />
+      <i c="28" l="1744267470236" />
     </e>
     <e n="EditorEscape">
       <i c="2" l="1744197271040" />
     </e>
     <e n="EditorLeft">
-      <i c="105" l="1744266370724" />
+      <i c="108" l="1744267480378" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="5" l="1744266372334" />
@@ -91,7 +91,7 @@
       <i c="37" l="1744266371243" />
     </e>
     <e n="EditorPreviousWordWithSelection">
-      <i c="59" l="1744266274530" />
+      <i c="62" l="1744267481312" />
     </e>
     <e n="EditorRight">
       <i c="35" l="1744266223054" />
@@ -100,7 +100,7 @@
       <i c="1" l="1744262062891" />
     </e>
     <e n="EditorSelectWord">
-      <i c="61" l="1744266474500" />
+      <i c="63" l="1744267327748" />
     </e>
     <e n="EditorTab">
       <i c="4" l="1744262101243" />
@@ -151,10 +151,10 @@
       <i c="3" l="1744262194358" />
     </e>
     <e n="Rerun">
-      <i c="14" l="1744266411513" />
+      <i c="16" l="1744267496721" />
     </e>
     <e n="Resume">
-      <i c="86" l="1744265198851" />
+      <i c="125" l="1744267362367" />
     </e>
     <e n="Run">
       <i c="1" l="1744189019595" />
@@ -166,13 +166,13 @@
       <i c="11" l="1744125790469" />
     </e>
     <e n="StepOver">
-      <i c="55" l="1744204314714" />
+      <i c="61" l="1744267231810" />
     </e>
     <e n="Stop">
       <i c="1" l="1744185003737" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="14" l="1744265435950" />
+      <i c="15" l="1744267323297" />
     </e>
     <e n="Vcs.RollbackChangedLines">
       <i c="5" l="1744266189010" />
@@ -199,7 +199,7 @@
       <i c="3" l="1744179098111" />
     </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
-      <i c="8" l="1744266480954" />
+      <i c="9" l="1744267183404" />
     </e>
     <e n="com.intellij.openapi.editor.actions.ScrollToTheEndToolbarAction">
       <i c="1" l="1744187169798" />
