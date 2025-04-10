@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1dd2d4ab-7141-44d8-9f7b-bb23c8f276d5" name="Changes" comment="" />
+    <list default="true" id="1dd2d4ab-7141-44d8-9f7b-bb23c8f276d5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/test/kotlin/com/hibob/payroll/BobPathsTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/kotlin/com/hibob/payroll/BobPathsTest.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +18,11 @@
     </projectState>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="avner/cfit/highlight_custom_basic_field" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HierarchyBrowserManager">
@@ -43,12 +50,15 @@
     "Gradle.ChangesReportServiceTest.Successfully get employees changes including custom tables changes - with custom toggle.executor": "Debug",
     "Gradle.ChangesReportServiceTest.executor": "Run",
     "Gradle.GetEmailTest.executor": "Run",
+    "Gradle.GetInstanceIdsTest.executor": "Run",
+    "Gradle.GetInstanceIdsTest.should return list of longs ignoring nulls and non-numbers.executor": "Debug",
+    "Gradle.GetSyncStatusTest.executor": "Debug",
     "Gradle.NewHiresTests.get employees - new hire should be in changes with the fields that not been changed in the sync, null fields should not be part.executor": "Debug",
     "Kotlin.PayrollApp.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "Shell Script.gradle flyway.executor": "Debug",
-    "git-widget-placeholder": "avner/cfit/highlight__custom__basic__field",
+    "git-widget-placeholder": "avner/bob__paths__test",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/workspace/payroll-hub-data",
     "node.js.detected.package.eslint": "true",
@@ -88,9 +98,9 @@
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.12910156" />
-      <window_info anchor="bottom" id="Debug" order="4" visible="true" weight="0.12910156" />
+      <window_info active="true" anchor="bottom" id="Debug" order="4" visible="true" weight="0.2376953" />
       <window_info anchor="bottom" id="Services" order="5" weight="0.31230468" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.2376953" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.2376953" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.20722656" />
       <window_info anchor="bottom" id="Find" order="8" weight="0.3298828" />
       <window_info anchor="right" id="sbt" />
@@ -107,55 +117,7 @@
       <window_info anchor="right" id="GitHub Copilot Chat" order="5" weight="0.20590279" />
     </layout>
   </component>
-  <component name="RunManager" selected="Gradle.GetEmailTest">
-    <configuration name="ChangesReportServiceTest.Successfully get employees changes - with custom toggle (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;com.hibob.report.ChangesReportServiceTest.Successfully get employees changes - with custom toggle&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <RunAsTest>true</RunAsTest>
-      <method v="2" />
-    </configuration>
-    <configuration name="ChangesReportServiceTest.Successfully get employees changes - with custom toggle" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;com.hibob.report.ChangesReportServiceTest.Successfully get employees changes - with custom toggle[1]&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <RunAsTest>true</RunAsTest>
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Gradle.GetInstanceIdsTest.should return list of longs ignoring nulls and non-numbers">
     <configuration name="ChangesReportServiceTest.Successfully get employees changes including custom tables changes - with custom toggle" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -170,30 +132,6 @@
             <option value=":test" />
             <option value="--tests" />
             <option value="&quot;com.hibob.report.ChangesReportServiceTest.Successfully get employees changes including custom tables changes - with custom toggle&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <RunAsTest>true</RunAsTest>
-      <method v="2" />
-    </configuration>
-    <configuration name="ChangesReportServiceTest.should include fixed custom field path in highlighted collection" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;com.hibob.report.ChangesReportServiceTest.should include fixed custom field path in highlighted collection&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -228,13 +166,85 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
+    <configuration name="GetInstanceIdsTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.hibob.payroll.BobPathsTest$GetInstanceIdsTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="GetInstanceIdsTest.should return list of longs ignoring nulls and non-numbers" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.hibob.payroll.BobPathsTest$GetInstanceIdsTest.should return list of longs ignoring nulls and non-numbers&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="GetSyncStatusTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.hibob.payroll.BobPathsTest$GetSyncStatusTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.GetInstanceIdsTest.should return list of longs ignoring nulls and non-numbers" />
+        <item itemvalue="Gradle.GetInstanceIdsTest" />
         <item itemvalue="Gradle.GetEmailTest" />
+        <item itemvalue="Gradle.GetSyncStatusTest" />
         <item itemvalue="Gradle.ChangesReportServiceTest.Successfully get employees changes including custom tables changes - with custom toggle" />
-        <item itemvalue="Gradle.ChangesReportServiceTest.should include fixed custom field path in highlighted collection" />
-        <item itemvalue="Gradle.ChangesReportServiceTest.Successfully get employees changes - with custom toggle (1)" />
-        <item itemvalue="Gradle.ChangesReportServiceTest.Successfully get employees changes - with custom toggle" />
       </list>
     </recent_temporary>
   </component>
@@ -263,7 +273,7 @@
       <workItem from="1744177701055" duration="1878000" />
       <workItem from="1744184643751" duration="13037000" />
       <workItem from="1744267034934" duration="479000" />
-      <workItem from="1744273885346" duration="964000" />
+      <workItem from="1744273885346" duration="2470000" />
     </task>
     <servers />
   </component>
@@ -314,6 +324,11 @@
           <url>file://$PROJECT_DIR$/src/test/kotlin/com/hibob/report/ChangesReportServiceTest.kt</url>
           <line>1721</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/test/kotlin/com/hibob/payroll/BobPathsTest.kt</url>
+          <line>172</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

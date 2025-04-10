@@ -4,7 +4,7 @@
       <i c="13" l="1744264705411" />
     </e>
     <e n="Back">
-      <i c="4" l="1744271340956" />
+      <i c="9" l="1744280389054" />
     </e>
     <e n="CallSaul">
       <i c="1" l="1744270015808" />
@@ -34,91 +34,91 @@
       <i c="1" l="1744272073606" />
     </e>
     <e n="EditorBackSpace">
-      <i c="149" l="1744272555619" />
+      <i c="181" l="1744280801831" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="40" l="1744272566206" />
+      <i c="43" l="1744280753644" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="9" l="1744197127846" />
     </e>
     <e n="EditorCopy">
-      <i c="18" l="1744272547182" />
+      <i c="20" l="1744280447072" />
     </e>
     <e n="EditorCut">
       <i c="6" l="1744269478931" />
     </e>
     <e n="EditorDelete">
-      <i c="22" l="1744273270708" />
+      <i c="26" l="1744280768947" />
     </e>
     <e n="EditorDeleteLine">
-      <i c="9" l="1744272312659" />
+      <i c="13" l="1744280412647" />
     </e>
     <e n="EditorDown">
-      <i c="176" l="1744273271308" />
+      <i c="186" l="1744280770192" />
     </e>
     <e n="EditorDownWithSelection">
-      <i c="100" l="1744272257671" />
+      <i c="106" l="1744280403368" />
     </e>
     <e n="EditorDuplicate">
       <i c="2" l="1744270144078" />
     </e>
     <e n="EditorEnter">
-      <i c="32" l="1744272175451" />
+      <i c="35" l="1744280392933" />
     </e>
     <e n="EditorEscape">
       <i c="4" l="1744270091752" />
     </e>
     <e n="EditorLeft">
-      <i c="151" l="1744273268104" />
+      <i c="174" l="1744280766983" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="6" l="1744273270403" />
     </e>
     <e n="EditorLineEnd">
-      <i c="20" l="1744270121279" />
+      <i c="23" l="1744280769133" />
     </e>
     <e n="EditorLineEndWithSelection">
       <i c="4" l="1744266372027" />
     </e>
     <e n="EditorLineStart">
-      <i c="49" l="1744272283906" />
+      <i c="51" l="1744280402378" />
     </e>
     <e n="EditorLineStartWithSelection">
       <i c="1" l="1744205891546" />
     </e>
     <e n="EditorNextWord">
-      <i c="65" l="1744271967838" />
+      <i c="68" l="1744280630316" />
     </e>
     <e n="EditorNextWordWithSelection">
-      <i c="15" l="1744273269156" />
+      <i c="35" l="1744280768303" />
     </e>
     <e n="EditorPaste">
-      <i c="30" l="1744273243939" />
+      <i c="32" l="1744280451161" />
     </e>
     <e n="EditorPreviousWord">
-      <i c="42" l="1744272152182" />
+      <i c="52" l="1744280716995" />
     </e>
     <e n="EditorPreviousWordWithSelection">
-      <i c="72" l="1744273269867" />
+      <i c="89" l="1744280768607" />
     </e>
     <e n="EditorRight">
-      <i c="44" l="1744273255259" />
+      <i c="66" l="1744280738873" />
     </e>
     <e n="EditorRightWithSelection">
-      <i c="1" l="1744262062891" />
+      <i c="5" l="1744280634959" />
     </e>
     <e n="EditorSelectWord">
-      <i c="70" l="1744272546125" />
+      <i c="73" l="1744280450843" />
     </e>
     <e n="EditorTab">
       <i c="4" l="1744262101243" />
     </e>
     <e n="EditorUp">
-      <i c="143" l="1744272291795" />
+      <i c="161" l="1744280758888" />
     </e>
     <e n="EvaluateExpression">
-      <i c="1" l="1744272093258" />
+      <i c="3" l="1744280571507" />
     </e>
     <e n="FindInPath">
       <i c="2" l="1744101459840" />
@@ -129,11 +129,17 @@
     <e n="Git.Commit.And.Push.Executor">
       <i c="9" l="1744272576023" />
     </e>
+    <e n="GitCheckoutAsNewBranch">
+      <i c="1" l="1744280904447" />
+    </e>
     <e n="GitNewBranchAction">
       <i c="2" l="1744267845049" />
     </e>
+    <e n="GitUpdateSelectedBranchAction">
+      <i c="1" l="1744280899748" />
+    </e>
     <e n="GotoDeclaration">
-      <i c="25" l="1744274227449" />
+      <i c="31" l="1744280820060" />
     </e>
     <e n="GotoTest">
       <i c="4" l="1744269975193" />
@@ -163,10 +169,10 @@
       <i c="4" l="1744269503356" />
     </e>
     <e n="Rerun">
-      <i c="20" l="1744272286676" />
+      <i c="25" l="1744280775875" />
     </e>
     <e n="Resume">
-      <i c="155" l="1744269025542" />
+      <i c="159" l="1744280785564" />
     </e>
     <e n="Run">
       <i c="2" l="1744272507723" />
@@ -175,16 +181,16 @@
       <i c="15" l="1744272302049" />
     </e>
     <e n="StepInto">
-      <i c="13" l="1744272075163" />
+      <i c="17" l="1744280781926" />
     </e>
     <e n="StepOver">
       <i c="75" l="1744272034643" />
     </e>
     <e n="Stop">
-      <i c="8" l="1744272515929" />
+      <i c="9" l="1744280611269" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="18" l="1744272017950" />
+      <i c="19" l="1744280467529" />
     </e>
     <e n="Vcs.RollbackChangedLines">
       <i c="7" l="1744274160415" />
@@ -211,7 +217,7 @@
       <i c="3" l="1744179098111" />
     </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
-      <i c="19" l="1744273923945" />
+      <i c="24" l="1744280894965" />
     </e>
     <e n="com.intellij.ide.hierarchy.HierarchyBrowserBaseEx$ChangeScopeAction$MenuAction">
       <i c="1" l="1744269606149" />
