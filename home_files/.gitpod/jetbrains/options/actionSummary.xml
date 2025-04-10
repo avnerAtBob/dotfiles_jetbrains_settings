@@ -6,6 +6,9 @@
     <e n="Back">
       <i c="3" l="1744263143403" />
     </e>
+    <e n="CompileProject">
+      <i c="1" l="1744266501557" />
+    </e>
     <e n="CopyReference">
       <i c="2" l="1744189320025" />
     </e>
@@ -22,10 +25,10 @@
       <i c="1" l="1744263971041" />
     </e>
     <e n="EditorBackSpace">
-      <i c="125" l="1744263692831" />
+      <i c="130" l="1744266184832" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="26" l="1744263560727" />
+      <i c="33" l="1744265621157" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="9" l="1744197127846" />
@@ -40,40 +43,43 @@
       <i c="15" l="1744265401030" />
     </e>
     <e n="EditorDeleteLine">
-      <i c="2" l="1744265478558" />
+      <i c="5" l="1744266306668" />
     </e>
     <e n="EditorDown">
-      <i c="125" l="1744265492118" />
+      <i c="138" l="1744266288491" />
     </e>
     <e n="EditorDownWithSelection">
-      <i c="40" l="1744264756078" />
+      <i c="80" l="1744266183390" />
+    </e>
+    <e n="EditorDuplicate">
+      <i c="1" l="1744266370226" />
     </e>
     <e n="EditorEnter">
-      <i c="26" l="1744265403102" />
+      <i c="27" l="1744265574150" />
     </e>
     <e n="EditorEscape">
       <i c="2" l="1744197271040" />
     </e>
     <e n="EditorLeft">
-      <i c="92" l="1744265481465" />
+      <i c="105" l="1744266370724" />
     </e>
     <e n="EditorLeftWithSelection">
-      <i c="3" l="1744263549842" />
+      <i c="5" l="1744266372334" />
     </e>
     <e n="EditorLineEnd">
-      <i c="18" l="1744265480864" />
+      <i c="19" l="1744266227789" />
     </e>
     <e n="EditorLineEndWithSelection">
-      <i c="3" l="1744213285185" />
+      <i c="4" l="1744266372027" />
     </e>
     <e n="EditorLineStart">
-      <i c="31" l="1744264754505" />
+      <i c="33" l="1744266179332" />
     </e>
     <e n="EditorLineStartWithSelection">
       <i c="1" l="1744205891546" />
     </e>
     <e n="EditorNextWord">
-      <i c="43" l="1744263691890" />
+      <i c="51" l="1744266371337" />
     </e>
     <e n="EditorNextWordWithSelection">
       <i c="3" l="1744262062238" />
@@ -82,25 +88,25 @@
       <i c="16" l="1744265373485" />
     </e>
     <e n="EditorPreviousWord">
-      <i c="31" l="1744265484233" />
+      <i c="37" l="1744266371243" />
     </e>
     <e n="EditorPreviousWordWithSelection">
-      <i c="52" l="1744265400093" />
+      <i c="59" l="1744266274530" />
     </e>
     <e n="EditorRight">
-      <i c="32" l="1744263686452" />
+      <i c="35" l="1744266223054" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="1" l="1744262062891" />
     </e>
     <e n="EditorSelectWord">
-      <i c="52" l="1744265436898" />
+      <i c="61" l="1744266474500" />
     </e>
     <e n="EditorTab">
       <i c="4" l="1744262101243" />
     </e>
     <e n="EditorUp">
-      <i c="104" l="1744265496633" />
+      <i c="117" l="1744266286184" />
     </e>
     <e n="FindInPath">
       <i c="2" l="1744101459840" />
@@ -145,7 +151,7 @@
       <i c="3" l="1744262194358" />
     </e>
     <e n="Rerun">
-      <i c="9" l="1744263736812" />
+      <i c="14" l="1744266411513" />
     </e>
     <e n="Resume">
       <i c="86" l="1744265198851" />
@@ -154,7 +160,7 @@
       <i c="1" l="1744189019595" />
     </e>
     <e n="SaveAll">
-      <i c="8" l="1744265496058" />
+      <i c="10" l="1744266367600" />
     </e>
     <e n="StepInto">
       <i c="11" l="1744125790469" />
@@ -169,7 +175,7 @@
       <i c="14" l="1744265435950" />
     </e>
     <e n="Vcs.RollbackChangedLines">
-      <i c="4" l="1744265363022" />
+      <i c="5" l="1744266189010" />
     </e>
     <e n="Vcs.ShowDiffChangedLines">
       <i c="1" l="1744197893543" />
@@ -193,7 +199,7 @@
       <i c="3" l="1744179098111" />
     </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
-      <i c="5" l="1744264008362" />
+      <i c="8" l="1744266480954" />
     </e>
     <e n="com.intellij.openapi.editor.actions.ScrollToTheEndToolbarAction">
       <i c="1" l="1744187169798" />
