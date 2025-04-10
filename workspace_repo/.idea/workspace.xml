@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1dd2d4ab-7141-44d8-9f7b-bb23c8f276d5" name="Changes" comment="fix some ignored BobPathsTest tests: &#10;getInstanceIds, getSyncStatus and getEmail">
-      <change beforePath="$PROJECT_DIR$/src/test/kotlin/com/hibob/payroll/BobPathsTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/kotlin/com/hibob/payroll/BobPathsTest.kt" afterDir="false" />
-    </list>
+    <list default="true" id="1dd2d4ab-7141-44d8-9f7b-bb23c8f276d5" name="Changes" comment="fix some ignored BobPathsTest tests: &#10;getInstanceIds, getSyncStatus and getEmail" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,13 +108,13 @@
       <window_info anchor="bottom" id="sbt-shell-toolwindow" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.2376953" />
       <window_info anchor="bottom" id="Problems" order="1" />
-      <window_info active="true" anchor="bottom" id="Problems View" order="2" visible="true" weight="0.2376953" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.2376953" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.12910156" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.2376953" />
       <window_info anchor="bottom" id="Services" order="5" weight="0.31230468" />
       <window_info anchor="bottom" id="Run" order="6" weight="0.2376953" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.20722656" />
-      <window_info anchor="bottom" id="Find" order="8" weight="0.3298828" />
+      <window_info anchor="bottom" id="Find" order="8" visible="true" weight="0.3298828" />
       <window_info anchor="right" id="sbt" />
       <window_info anchor="right" id="Endpoints" />
       <window_info anchor="right" id="Hierarchy" />
@@ -287,8 +285,17 @@
       <workItem from="1744177701055" duration="1878000" />
       <workItem from="1744184643751" duration="13037000" />
       <workItem from="1744267034934" duration="479000" />
-      <workItem from="1744273885346" duration="3533000" />
+      <workItem from="1744273885346" duration="4074000" />
     </task>
+    <task id="LOCAL-00001" summary="fix some ignored BobPathsTest tests: &#10;getInstanceIds, getSyncStatus and getEmail">
+      <option name="closed" value="true" />
+      <created>1744281983224</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1744281983224</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
