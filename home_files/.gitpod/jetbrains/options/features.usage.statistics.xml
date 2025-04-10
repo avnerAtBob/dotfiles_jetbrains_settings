@@ -45,12 +45,12 @@
     <feature id="codeassists.highlight.throws" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.find" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.quickdefinition" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.completion.basic" count="16" last-shown="0" last-used="1744204225988" shown-count="0" />
+    <feature id="editing.completion.basic" count="22" last-shown="0" last-used="1744262143034" shown-count="0" />
     <feature id="editing.completion.postfix" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="dir.diff" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.recent.locations" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="diagram.show.diff" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.select.word" count="42" last-shown="0" last-used="1744201737342" shown-count="0" />
+    <feature id="editing.select.word" count="44" last-shown="0" last-used="1744213449555" shown-count="0" />
     <feature id="ui.close.other.editors" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="debugger.evaluate.expression" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.highlight.usages" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -68,7 +68,7 @@
     <feature id="spring.endpoint.actions" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.clipboard.history" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.compare.editor.with.clipboard" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="refactoring.rename" count="2" last-shown="0" last-used="1744197937223" shown-count="0" />
+    <feature id="refactoring.rename" count="3" last-shown="0" last-used="1744262194418" shown-count="0" />
     <feature id="navigation.popup.action" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.show.quick.list" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="db.forget.cached.schemas" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -136,17 +136,17 @@
     <feature id="db.assign.color" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="spring.select.in" count="0" last-shown="0" last-used="0" shown-count="0" />
     <completionStatsTag>
-      <option name="sparedCharacters" value="193" />
-      <option name="invocations" value="14" />
+      <option name="sparedCharacters" value="235" />
+      <option name="invocations" value="18" />
       <option name="startDate" value="1744156800000" />
-      <option name="dayCount" value="1" />
-      <option name="lastDate" value="1744156800000" />
+      <option name="dayCount" value="2" />
+      <option name="lastDate" value="1744243200000" />
     </completionStatsTag>
     <fixesStatsTag>
-      <option name="invocations" value="4" />
+      <option name="invocations" value="6" />
       <option name="startDate" value="1744156800000" />
-      <option name="dayCount" value="1" />
-      <option name="lastDate" value="1744156800000" />
+      <option name="dayCount" value="2" />
+      <option name="lastDate" value="1744243200000" />
     </fixesStatsTag>
   </component>
 </application>

@@ -19,10 +19,10 @@
       <i c="4" l="1744184679300" />
     </e>
     <e n="EditorBackSpace">
-      <i c="44" l="1744204222460" />
+      <i c="104" l="1744262208658" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="16" l="1744204225519" />
+      <i c="22" l="1744262143003" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="9" l="1744197127846" />
@@ -34,61 +34,67 @@
       <i c="2" l="1744197600199" />
     </e>
     <e n="EditorDelete">
-      <i c="6" l="1744197940529" />
+      <i c="9" l="1744262063329" />
     </e>
     <e n="EditorDown">
-      <i c="49" l="1744205892620" />
+      <i c="68" l="1744262191243" />
     </e>
     <e n="EditorDownWithSelection">
       <i c="19" l="1744205891255" />
     </e>
     <e n="EditorEnter">
-      <i c="10" l="1744197322280" />
+      <i c="17" l="1744213228169" />
     </e>
     <e n="EditorEscape">
       <i c="2" l="1744197271040" />
     </e>
     <e n="EditorLeft">
-      <i c="15" l="1744204231615" />
+      <i c="79" l="1744262200001" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="1" l="1744197443493" />
     </e>
     <e n="EditorLineEnd">
-      <i c="6" l="1744197260017" />
+      <i c="11" l="1744262181087" />
     </e>
     <e n="EditorLineEndWithSelection">
-      <i c="2" l="1744197443105" />
+      <i c="3" l="1744213285185" />
     </e>
     <e n="EditorLineStart">
-      <i c="17" l="1744205886895" />
+      <i c="20" l="1744213387098" />
     </e>
     <e n="EditorLineStartWithSelection">
       <i c="1" l="1744205891546" />
     </e>
     <e n="EditorNextWord">
-      <i c="24" l="1744205889165" />
+      <i c="38" l="1744262186587" />
+    </e>
+    <e n="EditorNextWordWithSelection">
+      <i c="3" l="1744262062238" />
     </e>
     <e n="EditorPaste">
-      <i c="7" l="1744201616450" />
+      <i c="10" l="1744213229086" />
     </e>
     <e n="EditorPreviousWord">
-      <i c="15" l="1744205889633" />
+      <i c="25" l="1744213215612" />
     </e>
     <e n="EditorPreviousWordWithSelection">
-      <i c="20" l="1744197562786" />
+      <i c="42" l="1744262187553" />
     </e>
     <e n="EditorRight">
-      <i c="9" l="1744197561706" />
+      <i c="27" l="1744262205653" />
+    </e>
+    <e n="EditorRightWithSelection">
+      <i c="1" l="1744262062891" />
     </e>
     <e n="EditorSelectWord">
-      <i c="42" l="1744201737339" />
+      <i c="44" l="1744213449553" />
     </e>
     <e n="EditorTab">
-      <i c="2" l="1744197025891" />
+      <i c="4" l="1744262101243" />
     </e>
     <e n="EditorUp">
-      <i c="47" l="1744205911793" />
+      <i c="65" l="1744262116991" />
     </e>
     <e n="FindInPath">
       <i c="2" l="1744101459840" />
@@ -109,7 +115,7 @@
       <i c="1" l="1744197296924" />
     </e>
     <e n="Inline">
-      <i c="1" l="1744197504242" />
+      <i c="2" l="1744213292729" />
     </e>
     <e n="InsertInlineCompletionAction">
       <i c="3" l="1744197237908" />
@@ -121,25 +127,25 @@
       <i c="5" l="1744188120602" />
     </e>
     <e n="NextTemplateVariable">
-      <i c="4" l="1744197941569" />
+      <i c="6" l="1744262209801" />
     </e>
     <e n="OpenFile">
       <i c="9" l="1744188733261" />
     </e>
     <e n="RenameElement">
-      <i c="2" l="1744197937085" />
+      <i c="3" l="1744262194358" />
     </e>
     <e n="Rerun">
-      <i c="6" l="1744206007115" />
+      <i c="8" l="1744261934564" />
     </e>
     <e n="Resume">
-      <i c="38" l="1744206127785" />
+      <i c="40" l="1744206867545" />
     </e>
     <e n="Run">
       <i c="1" l="1744189019595" />
     </e>
     <e n="SaveAll">
-      <i c="6" l="1744201523928" />
+      <i c="7" l="1744213389418" />
     </e>
     <e n="StepInto">
       <i c="11" l="1744125790469" />
@@ -161,6 +167,12 @@
     </e>
     <e n="Vcs.UpdateProject">
       <i c="4" l="1744196840227" />
+    </e>
+    <e n="XDebugger.CopyValue">
+      <i c="1" l="1744206676366" />
+    </e>
+    <e n="XDebugger.MuteBreakpoints">
+      <i c="1" l="1744206866555" />
     </e>
     <e n="com.intellij.database.dataSource.LocalDataSourceManager$2">
       <i c="1" l="1744188132961" />
