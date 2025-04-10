@@ -49,6 +49,7 @@
     "Gradle.ChangesReportServiceTest.Successfully get employees changes - with custom toggle.executor": "Debug",
     "Gradle.ChangesReportServiceTest.Successfully get employees changes including custom tables changes - with custom toggle.executor": "Debug",
     "Gradle.ChangesReportServiceTest.executor": "Run",
+    "Gradle.Download Sources.executor": "Run",
     "Gradle.GetEmailTest.executor": "Run",
     "Gradle.GetInstanceIdsTest.executor": "Run",
     "Gradle.GetInstanceIdsTest.should return list of longs ignoring nulls and non-numbers.executor": "Debug",
@@ -94,11 +95,11 @@
       <window_info anchor="bottom" id="TODO" />
       <window_info anchor="bottom" id="File Transfer" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" />
-      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="0" visible="true" weight="0.2376953" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.12910156" />
-      <window_info active="true" anchor="bottom" id="Debug" order="4" visible="true" weight="0.2376953" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.2376953" />
       <window_info anchor="bottom" id="Services" order="5" weight="0.31230468" />
       <window_info anchor="bottom" id="Run" order="6" weight="0.2376953" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.20722656" />
@@ -273,7 +274,7 @@
       <workItem from="1744177701055" duration="1878000" />
       <workItem from="1744184643751" duration="13037000" />
       <workItem from="1744267034934" duration="479000" />
-      <workItem from="1744273885346" duration="2470000" />
+      <workItem from="1744273885346" duration="2827000" />
     </task>
     <servers />
   </component>
