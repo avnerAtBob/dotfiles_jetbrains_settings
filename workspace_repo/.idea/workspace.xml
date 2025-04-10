@@ -7,6 +7,7 @@
     <list default="true" id="1dd2d4ab-7141-44d8-9f7b-bb23c8f276d5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/hibob/core/report/paycyclereport/service/ChangesReportService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/hibob/core/report/paycyclereport/service/ChangesReportService.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/hibob/payroll/BobPaths.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/hibob/payroll/BobPaths.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/kotlin/com/hibob/report/ChangesReportServiceTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/kotlin/com/hibob/report/ChangesReportServiceTest.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +42,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Gradle.Build payroll.executor": "Run",
+    "Gradle.ChangesReportServiceTest.Successfully get employees changes - with custom toggle (1).executor": "Debug",
+    "Gradle.ChangesReportServiceTest.Successfully get employees changes - with custom toggle.executor": "Debug",
+    "Gradle.ChangesReportServiceTest.executor": "Run",
     "Gradle.NewHiresTests.get employees - new hire should be in changes with the fields that not been changed in the sync, null fields should not be part.executor": "Debug",
     "Kotlin.PayrollApp.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -78,7 +82,6 @@
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="TypeScript" />
       <window_info anchor="bottom" id="Profiler" />
-      <window_info anchor="bottom" id="Build" />
       <window_info anchor="bottom" id="internal-profiler" />
       <window_info anchor="bottom" id="TODO" />
       <window_info anchor="bottom" id="File Transfer" />
@@ -87,10 +90,11 @@
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.31230468" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.31230468" />
+      <window_info active="true" anchor="bottom" id="Debug" order="4" visible="true" weight="0.3298828" />
       <window_info anchor="bottom" id="Services" order="5" weight="0.31230468" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.18567708" />
-      <window_info anchor="bottom" id="Find" order="7" visible="true" weight="0.3298828" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.3298828" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.3298828" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.3298828" />
       <window_info anchor="right" id="sbt" />
       <window_info anchor="right" id="Endpoints" />
       <window_info anchor="right" id="Hierarchy" />
@@ -102,10 +106,82 @@
       <window_info anchor="right" id="Gradle" order="2" weight="0.25" />
       <window_info anchor="right" id="Maven" order="3" weight="0.25" />
       <window_info anchor="right" id="github.copilotToolWindow" order="4" />
-      <window_info active="true" anchor="right" id="GitHub Copilot Chat" order="5" visible="true" weight="0.33020833" />
+      <window_info active="true" anchor="right" id="GitHub Copilot Chat" order="5" visible="true" weight="0.21145833" />
     </layout>
   </component>
-  <component name="RunManager" selected="Gradle.NewHiresTests.get employees - new hire should be in changes with the fields that not been changed in the sync, null fields should not be part">
+  <component name="RunManager" selected="Gradle.ChangesReportServiceTest.Successfully get employees changes - with custom toggle (1)">
+    <configuration name="ChangesReportServiceTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.hibob.report.ChangesReportServiceTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="ChangesReportServiceTest.Successfully get employees changes - with custom toggle (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.hibob.report.ChangesReportServiceTest.Successfully get employees changes - with custom toggle&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="ChangesReportServiceTest.Successfully get employees changes - with custom toggle" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.hibob.report.ChangesReportServiceTest.Successfully get employees changes - with custom toggle[1]&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
     <configuration name="NewHiresTests.get employees - new hire should be in changes with the fields that not been changed in the sync, null fields should not be part" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -132,6 +208,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.ChangesReportServiceTest.Successfully get employees changes - with custom toggle (1)" />
+        <item itemvalue="Gradle.ChangesReportServiceTest.Successfully get employees changes - with custom toggle" />
+        <item itemvalue="Gradle.ChangesReportServiceTest" />
         <item itemvalue="Gradle.NewHiresTests.get employees - new hire should be in changes with the fields that not been changed in the sync, null fields should not be part" />
       </list>
     </recent_temporary>
@@ -159,7 +238,7 @@
       <workItem from="1742289894090" duration="2758000" />
       <workItem from="1744095163181" duration="7764000" />
       <workItem from="1744177701055" duration="1878000" />
-      <workItem from="1744184643751" duration="10869000" />
+      <workItem from="1744184643751" duration="11937000" />
     </task>
     <servers />
   </component>
@@ -205,6 +284,11 @@
             <option name="lambda-ordinal" value="-1" />
           </properties>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/test/kotlin/com/hibob/report/ChangesReportServiceTest.kt</url>
+          <line>1582</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
