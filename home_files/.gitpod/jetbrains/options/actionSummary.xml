@@ -18,11 +18,14 @@
     <e n="Debug">
       <i c="4" l="1744184679300" />
     </e>
+    <e n="DebugClass">
+      <i c="1" l="1744263971041" />
+    </e>
     <e n="EditorBackSpace">
-      <i c="119" l="1744262818293" />
+      <i c="125" l="1744263692831" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="23" l="1744262781965" />
+      <i c="26" l="1744263560727" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="9" l="1744197127846" />
@@ -40,64 +43,64 @@
       <i c="1" l="1744263161073" />
     </e>
     <e n="EditorDown">
-      <i c="110" l="1744262819060" />
+      <i c="113" l="1744263688289" />
     </e>
     <e n="EditorDownWithSelection">
       <i c="32" l="1744263168334" />
     </e>
     <e n="EditorEnter">
-      <i c="20" l="1744262778309" />
+      <i c="24" l="1744263664105" />
     </e>
     <e n="EditorEscape">
       <i c="2" l="1744197271040" />
     </e>
     <e n="EditorLeft">
-      <i c="83" l="1744262817591" />
+      <i c="88" l="1744263686151" />
     </e>
     <e n="EditorLeftWithSelection">
-      <i c="2" l="1744262802545" />
+      <i c="3" l="1744263549842" />
     </e>
     <e n="EditorLineEnd">
-      <i c="12" l="1744262814785" />
+      <i c="14" l="1744263663749" />
     </e>
     <e n="EditorLineEndWithSelection">
       <i c="3" l="1744213285185" />
     </e>
     <e n="EditorLineStart">
-      <i c="28" l="1744263166943" />
+      <i c="29" l="1744263691071" />
     </e>
     <e n="EditorLineStartWithSelection">
       <i c="1" l="1744205891546" />
     </e>
     <e n="EditorNextWord">
-      <i c="40" l="1744262812654" />
+      <i c="43" l="1744263691890" />
     </e>
     <e n="EditorNextWordWithSelection">
       <i c="3" l="1744262062238" />
     </e>
     <e n="EditorPaste">
-      <i c="13" l="1744262760061" />
+      <i c="15" l="1744263686723" />
     </e>
     <e n="EditorPreviousWord">
       <i c="29" l="1744262817310" />
     </e>
     <e n="EditorPreviousWordWithSelection">
-      <i c="48" l="1744262814176" />
+      <i c="51" l="1744263549570" />
     </e>
     <e n="EditorRight">
-      <i c="31" l="1744262817965" />
+      <i c="32" l="1744263686452" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="1" l="1744262062891" />
     </e>
     <e n="EditorSelectWord">
-      <i c="46" l="1744263257895" />
+      <i c="49" l="1744263959051" />
     </e>
     <e n="EditorTab">
       <i c="4" l="1744262101243" />
     </e>
     <e n="EditorUp">
-      <i c="77" l="1744262739211" />
+      <i c="80" l="1744263690254" />
     </e>
     <e n="FindInPath">
       <i c="2" l="1744101459840" />
@@ -112,7 +115,7 @@
       <i c="1" l="1744198190064" />
     </e>
     <e n="GotoDeclaration">
-      <i c="15" l="1744263118177" />
+      <i c="19" l="1744264073936" />
     </e>
     <e n="GotoTest">
       <i c="2" l="1744262269761" />
@@ -139,7 +142,7 @@
       <i c="3" l="1744262194358" />
     </e>
     <e n="Rerun">
-      <i c="8" l="1744261934564" />
+      <i c="9" l="1744263736812" />
     </e>
     <e n="Resume">
       <i c="74" l="1744262948855" />
@@ -160,7 +163,7 @@
       <i c="1" l="1744185003737" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="6" l="1744205985711" />
+      <i c="7" l="1744263929919" />
     </e>
     <e n="Vcs.RollbackChangedLines">
       <i c="2" l="1744205880973" />
@@ -175,7 +178,7 @@
       <i c="1" l="1744206676366" />
     </e>
     <e n="XDebugger.MuteBreakpoints">
-      <i c="2" l="1744262947938" />
+      <i c="3" l="1744263977381" />
     </e>
     <e n="com.intellij.database.dataSource.LocalDataSourceManager$2">
       <i c="1" l="1744188132961" />
@@ -187,7 +190,7 @@
       <i c="3" l="1744179098111" />
     </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
-      <i c="3" l="1744262838858" />
+      <i c="5" l="1744264008362" />
     </e>
     <e n="com.intellij.openapi.editor.actions.ScrollToTheEndToolbarAction">
       <i c="1" l="1744187169798" />
